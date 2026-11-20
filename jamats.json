@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "repo": "Arifmullikh/qawmi-kitab",
+  "groups": {
+    "marhala": "মারহালা (জামাত)",
+    "takhassus": "তাখাসসুস"
+  },
+  "jamats": [
+    {
+      "order": 1,
+      "tag": "taisir",
+      "name_bn": "তাইসীর",
+      "name_en": "Taisir",
+      "group": "marhala"
+    },
+    {
+      "order": 2,
+      "tag": "mizan",
+      "name_bn": "মীযান",
+      "name_en": "Mizan",
+      "group": "marhala"
+    },
+    {
+      "order": 3,
+      "tag": "nahbemir",
+      "name_bn": "নাহবেমীর",
+      "name_en": "Nahbemir",
+      "group": "marhala"
+    },
+    {
+      "order": 4,
+      "tag": "hedayatun-nahu",
+      "name_bn": "হেদায়াতুন নাহু",
+      "name_en": "Hedayatun Nahu",
+      "group": "marhala"
+    },
+    {
+      "order": 5,
+      "tag": "kafiya",
+      "name_bn": "কাফিয়া",
+      "name_en": "Kafiya",
+      "group": "marhala"
+    },
+    {
+      "order": 6,
+      "tag": "sharhe-jami",
+      "name_bn": "শরহে জামী",
+      "name_en": "Sharhe Jami",
+      "group": "marhala"
+    },
+    {
+      "order": 7,
+      "tag": "sharhe-bekaya",
+      "name_bn": "শরহে বেকায়া",
+      "name_en": "Sharhe Bekaya",
+      "group": "marhala"
+    },
+    {
+      "order": 8,
+      "tag": "jalalain",
+      "name_bn": "জালালাইন",
+      "name_en": "Jalalain",
+      "group": "marhala"
+    },
+    {
+      "order": 9,
+      "tag": "mishkat",
+      "name_bn": "মিশকাত",
+      "name_en": "Mishkat",
+      "group": "marhala"
+    },
+    {
+      "order": 10,
+      "tag": "dawra",
+      "name_bn": "দাওরায়ে হাদীস",
+      "name_en": "Dawra-e-Hadith",
+      "group": "marhala"
+    },
+    {
+      "order": 11,
+      "tag": "takhassus-ifta",
+      "name_bn": "তাখাসসুস - ইফতা",
+      "name_en": "Takhassus: Ifta",
+      "group": "takhassus"
+    },
+    {
+      "order": 12,
+      "tag": "takhassus-hadith",
+      "name_bn": "তাখাসসুস - হাদীস",
+      "name_en": "Takhassus: Hadith",
+      "group": "takhassus"
+    },
+    {
+      "order": 13,
+      "tag": "takhassus-tafsir",
+      "name_bn": "তাখাসসুস - তাফসীর",
+      "name_en": "Takhassus: Tafsir",
+      "group": "takhassus"
+    },
+    {
+      "order": 14,
+      "tag": "takhassus-fiqh",
+      "name_bn": "তাখাসসুস - ফিকহ",
+      "name_en": "Takhassus: Fiqh",
+      "group": "takhassus"
+    },
+    {
+      "order": 15,
+      "tag": "takhassus-adab",
+      "name_bn": "তাখাসসুস - আদব",
+      "name_en": "Takhassus: Adab",
+      "group": "takhassus"
+    },
+    {
+      "order": 16,
+      "tag": "takhassus-qiraat",
+      "name_bn": "তাখাসসুস - কিরাআত",
+      "name_en": "Takhassus: Qiraat",
+      "group": "takhassus"
+    },
+    {
+      "order": 17,
+      "tag": "takhassus-dawah",
+      "name_bn": "তাখাসসুস - দাওয়াহ",
+      "name_en": "Takhassus: Dawah",
+      "group": "takhassus"
+    }
+  ]
+}
