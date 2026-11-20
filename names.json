@@ -1,2146 +1,2682 @@
 {
- "taisir/Bangla__01_Taleemul-Islam_Khondo-1-4_Bangla_-includes-4th.pdf": {
+ "taisir/Matn-Bn__01_Taleemul-Islam_Khondo-1-4_Bangla_-includes-4th.pdf": {
   "title": "তালীমুল ইসলাম (১-৪ খণ্ড)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__03_Urdu-ki-Teesri-Kitab_Urdu-Bangla.pdf": {
+ "taisir/Matn-Bn__03_Urdu-ki-Teesri-Kitab_Urdu-Bangla.pdf": {
   "title": "উর্দু কী তীসরী কিতাব (উর্দু-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__04_Farsi-ki-Pehli-Kitab_Bangla-Urdu.pdf": {
+ "taisir/Matn-Bn__04_Farsi-ki-Pehli-Kitab_Bangla-Urdu.pdf": {
   "title": "ফারসী কী পহেলী কিতাব (বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__10_Prathomik-Gonit_Class5_NCTB-2025_-substitute-not-Befaq.pdf": {
+ "taisir/Matn-Bn__10_Prathomik-Gonit_Class5_NCTB-2025_-substitute-not-Befaq.pdf": {
   "title": "প্রাথমিক গণিত - ৫ম শ্রেণি (NCTB)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__13_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf": {
+ "taisir/Matn-Bn__13_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf": {
   "title": "বেহেশতী জেওর - ১ম ভলিউম (১-৩ খণ্ড)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__13_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf": {
+ "taisir/Matn-Bn__13_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf": {
   "title": "বেহেশতী জেওর - ২য় ভলিউম (৪-৭ খণ্ড)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__14_Beheshti-Gauhar_Bangla.pdf": {
+ "taisir/Matn-Bn__14_Beheshti-Gauhar_Bangla.pdf": {
   "title": "বেহেশতী গাওহার",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__15_Urdu-ki-Pehli-Kitab_Urdu-Bangla.pdf": {
+ "taisir/Matn-Bn__15_Urdu-ki-Pehli-Kitab_Urdu-Bangla.pdf": {
   "title": "উর্দু কী পহেলী কিতাব (উর্দু-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__16_Urdu-ki-Doosri-Kitab_Urdu-Bangla.pdf": {
+ "taisir/Matn-Bn__16_Urdu-ki-Doosri-Kitab_Urdu-Bangla.pdf": {
   "title": "উর্দু কী দূসরী কিতাব (উর্দু-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__18_Karima_Bongaonubad-Bangla-translation.pdf": {
+ "taisir/Matn-Bn__18_Karima_Bongaonubad-Bangla-translation.pdf": {
   "title": "কারীমা - বঙ্গানুবাদ",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__18_Karima_Farsi-with-Bangla-meaning.pdf": {
+ "taisir/Matn-Bn__18_Karima_Farsi-with-Bangla-meaning.pdf": {
   "title": "কারীমা (ফারসি, বাংলা অর্থসহ)",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Bangla__20_Nuzhatul-Qari_Bangla.pdf": {
+ "taisir/Matn-Bn__20_Nuzhatul-Qari_Bangla.pdf": {
   "title": "নুযহাতুল কারী",
+  "type": "matn",
   "lang": "bn"
  },
- "taisir/Original__01_Taleemul-Islam_Urdu_Mukammal-all-4-parts.pdf": {
+ "taisir/Matn-Ur__01_Taleemul-Islam_Urdu_Mukammal-all-4-parts.pdf": {
   "title": "তালীমুল ইসলাম (উর্দু, পূর্ণ ৪ খণ্ড)",
+  "type": "matn",
   "lang": "ur"
  },
- "taisir/Original__04_Farsi-ki-Pehli-Kitab_Urdu.pdf": {
+ "taisir/Matn-Ur__04_Farsi-ki-Pehli-Kitab_Urdu.pdf": {
   "title": "ফারসী কী পহেলী কিতাব (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "taisir/Original__05_Taiseerul-Mubtadi_Urdu-Farsi_-Maktaba-al-Bushra.pdf": {
+ "taisir/Matn-Fa__05_Taiseerul-Mubtadi_Urdu-Farsi_-Maktaba-al-Bushra.pdf": {
   "title": "তাইসীরুল মুবতাদী (উর্দু-ফারসি, বুশরা)",
+  "type": "matn",
   "lang": "fa"
  },
- "taisir/Original__13_Bahishti-Zewar_Urdu_Mukammal.pdf": {
+ "taisir/Matn-Ur__13_Bahishti-Zewar_Urdu_Mukammal.pdf": {
   "title": "বেহেশতী জেওর (উর্দু, পূর্ণ)",
+  "type": "matn",
   "lang": "ur"
  },
- "taisir/Original__14_Bahishti-Gohar_Urdu_-Maktaba-al-Bushra.pdf": {
+ "taisir/Matn-Ur__14_Bahishti-Gohar_Urdu_-Maktaba-al-Bushra.pdf": {
   "title": "বেহেশতী গাওহার (উর্দু, বুশরা)",
+  "type": "matn",
   "lang": "ur"
  },
- "taisir/Original__17_Chehel-Sabaq_Urdu-Farsi.pdf": {
+ "taisir/Matn-Fa__17_Chehel-Sabaq_Urdu-Farsi.pdf": {
   "title": "চেহেল সবক (উর্দু-ফারসি)",
+  "type": "matn",
   "lang": "fa"
  },
- "taisir/Original__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf": {
+ "taisir/Matn-Fa__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf": {
   "title": "কারীমা - শেখ সাদী (ফারসি, উর্দু টীকাসহ)",
+  "type": "matn",
   "lang": "fa"
  },
- "taisir/Original__19_Urdu-ka-Aasan-Qaida_Urdu_-generic-not-BD-edition.pdf": {
+ "taisir/Matn-Ur__19_Urdu-ka-Aasan-Qaida_Urdu_-generic-not-BD-edition.pdf": {
   "title": "উর্দু কা আসান কায়েদা",
+  "type": "matn",
   "lang": "ur"
  },
- "mizan/Bangla__01-02-05_Azizul-Mubtadi_Mizanus-Sarf-o-Munshaib_Bangla.pdf": {
+ "mizan/Sharh-Bn__01-02-05_Azizul-Mubtadi_Mizanus-Sarf-o-Munshaib_Bangla.pdf": {
   "title": "আযীযুল মুবতাদী - মীযানুস সরফ ও মুনশাইব (বাংলা)",
+  "type": "sharh",
   "lang": "bn"
  },
- "mizan/Bangla__03_At-Tamrinul-Kitabi_Arabic-Bangla.pdf": {
+ "mizan/Matn-Bn__03_At-Tamrinul-Kitabi_Arabic-Bangla.pdf": {
   "title": "আত-তামরীনুল কিতাবী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__04_Safwatul-Masadir_Bangla_-Azizul-Masadir.pdf": {
+ "mizan/Sharh-Bn__04_Safwatul-Masadir_Bangla_-Azizul-Masadir.pdf": {
   "title": "সফওয়াতুল মাসাদির (আযীযুল মাসাদির)",
+  "type": "sharh",
   "lang": "bn"
  },
- "mizan/Bangla__06_Esho-Arabi-Shikhi_At-Tariq-ila-al-Arabiyyah_Parts-1-3.pdf": {
+ "mizan/Matn-Bn__06_Esho-Arabi-Shikhi_At-Tariq-ila-al-Arabiyyah_Parts-1-3.pdf": {
   "title": "এসো আরবি শিখি - আত-তারীক ইলাল আরাবিয়্যাহ (১-৩)",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__07_Bakuratul-Adab_Arabic-Urdu-Bangla.pdf": {
+ "mizan/Matn-Bn__07_Bakuratul-Adab_Arabic-Urdu-Bangla.pdf": {
   "title": "বাকূরাতুল আদব (আরবি-উর্দু-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__08_Pandenama_Sohoj_Bangla.pdf": {
+ "mizan/Sharh-Bn__08_Pandenama_Sohoj_Bangla.pdf": {
   "title": "সহজ পান্দেনামা",
+  "type": "sharh",
   "lang": "bn"
  },
- "mizan/Bangla__10_Hekayete-Latif_Bangla.pdf": {
+ "mizan/Matn-Bn__10_Hekayete-Latif_Bangla.pdf": {
   "title": "হেকায়েতে লতীফ",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__11_Beheshti-Gauhar_Bangla.pdf": {
+ "mizan/Matn-Bn__11_Beheshti-Gauhar_Bangla.pdf": {
   "title": "বেহেশতী গাওহার",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__12_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf": {
+ "mizan/Matn-Bn__12_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf": {
   "title": "বেহেশতী জেওর - ১ম ভলিউম (১-৩ খণ্ড)",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__12_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf": {
+ "mizan/Matn-Bn__12_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf": {
   "title": "বেহেশতী জেওর - ২য় ভলিউম (৪-৭ খণ্ড)",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__13_Jamalul-Quran_Bangla.pdf": {
+ "mizan/Matn-Bn__13_Jamalul-Quran_Bangla.pdf": {
   "title": "জামালুল কুরআন",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__15_Tarikhul-Islam_1m-Khondo_Bangla.pdf": {
+ "mizan/Matn-Bn__15_Tarikhul-Islam_1m-Khondo_Bangla.pdf": {
   "title": "তারীখুল ইসলাম - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__16_Tarikhul-Islam_2y-Khondo_Tarikhe-Millat-Khilafate-Rashida_Bangla.pdf": {
+ "mizan/Matn-Bn__16_Tarikhul-Islam_2y-Khondo_Tarikhe-Millat-Khilafate-Rashida_Bangla.pdf": {
   "title": "তারীখুল ইসলাম - ২য় খণ্ড (খেলাফতে রাশেদা)",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__18_Karima_Farsi-with-Bangla-meaning.pdf": {
+ "mizan/Matn-Bn__18_Karima_Farsi-with-Bangla-meaning.pdf": {
   "title": "কারীমা (ফারসি, বাংলা অর্থসহ)",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__19_Karima_Bongaonubad.pdf": {
+ "mizan/Matn-Bn__19_Karima_Bongaonubad.pdf": {
   "title": "কারীমা - বঙ্গানুবাদ",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__23_Ilmus-Sarf_Bangla_-Befaq-Panjganj-o-Ilmus-Sarf.pdf": {
+ "mizan/Matn-Bn__23_Ilmus-Sarf_Bangla_-Befaq-Panjganj-o-Ilmus-Sarf.pdf": {
   "title": "ইলমুস সরফ ও পাঞ্জগাঞ্জ (বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "mizan/Bangla__23b_Proshnottore-Ilmus-Sarf_Bangla.pdf": {
+ "mizan/Sharh-Bn__23b_Proshnottore-Ilmus-Sarf_Bangla.pdf": {
   "title": "প্রশ্নোত্তরে ইলমুস সরফ",
+  "type": "sharh",
   "lang": "bn"
  },
- "mizan/Original__01-02_Mizanus-Sarf-wa-Munshaib_Farsi_-al-Bushra.pdf": {
+ "mizan/Matn-Fa__01-02_Mizanus-Sarf-wa-Munshaib_Farsi_-al-Bushra.pdf": {
   "title": "মীযানুস সরফ ও মুনশাইব (ফারসি, বুশরা)",
+  "type": "matn",
   "lang": "fa"
  },
- "mizan/Original__04_Arabi-Safwatul-Masadir_Arabic.pdf": {
+ "mizan/Matn-Ar__04_Arabi-Safwatul-Masadir_Arabic.pdf": {
   "title": "সফওয়াতুল মাসাদির (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "mizan/Original__07_Bakuratul-Adab_Arabic.pdf": {
+ "mizan/Matn-Ar__07_Bakuratul-Adab_Arabic.pdf": {
   "title": "বাকূরাতুল আদব (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "mizan/Original__08_Pandnama-Attar_Farsi_-al-Bushra.pdf": {
+ "mizan/Matn-Fa__08_Pandnama-Attar_Farsi_-al-Bushra.pdf": {
   "title": "পান্দেনামা - শেখ আত্তার (ফারসি)",
+  "type": "matn",
   "lang": "fa"
  },
- "mizan/Original__11_Bahishti-Gohar_Urdu.pdf": {
+ "mizan/Matn-Ur__11_Bahishti-Gohar_Urdu.pdf": {
   "title": "বেহেশতী গাওহার (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "mizan/Original__12_Bahishti-Zewar_Urdu_Mukammal.pdf": {
+ "mizan/Matn-Ur__12_Bahishti-Zewar_Urdu_Mukammal.pdf": {
   "title": "বেহেশতী জেওর (উর্দু, পূর্ণ)",
+  "type": "matn",
   "lang": "ur"
  },
- "mizan/Original__13_Jamalul-Quran_Urdu_-Thanvi.pdf": {
+ "mizan/Matn-Ur__13_Jamalul-Quran_Urdu_-Thanvi.pdf": {
   "title": "জামালুল কুরআন (উর্দু, থানভী রহ.)",
+  "type": "matn",
   "lang": "ur"
  },
- "mizan/Original__14_al-Qiraatul-Wadiha_Part1_Arabic.pdf": {
+ "mizan/Matn-Ar__14_al-Qiraatul-Wadiha_Part1_Arabic.pdf": {
   "title": "আল-কিরাআতুল ওয়াযিহা - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "mizan/Original__14_al-Qiraatul-Wadiha_Part2_Arabic.pdf": {
+ "mizan/Matn-Ar__14_al-Qiraatul-Wadiha_Part2_Arabic.pdf": {
   "title": "আল-কিরাআতুল ওয়াযিহা - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "mizan/Original__14_al-Qiraatul-Wadiha_Part3_Arabic.pdf": {
+ "mizan/Matn-Ar__14_al-Qiraatul-Wadiha_Part3_Arabic.pdf": {
   "title": "আল-কিরাআতুল ওয়াযিহা - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "mizan/Original__15_Tarikh-e-Millat_Vol1_Urdu.pdf": {
+ "mizan/Matn-Ur__15_Tarikh-e-Millat_Vol1_Urdu.pdf": {
   "title": "তারীখে মিল্লাত - ১ম খণ্ড (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "mizan/Original__16_Tarikh-e-Millat_Vol2_Urdu.pdf": {
+ "mizan/Matn-Ur__16_Tarikh-e-Millat_Vol2_Urdu.pdf": {
   "title": "তারীখে মিল্লাত - ২য় খণ্ড (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "mizan/Original__17_Tarikh-e-Millat_Vol3_Urdu.pdf": {
+ "mizan/Matn-Ur__17_Tarikh-e-Millat_Vol3_Urdu.pdf": {
   "title": "তারীখে মিল্লাত - ৩য় খণ্ড (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "mizan/Original__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf": {
+ "mizan/Matn-Fa__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf": {
   "title": "কারীমা - শেখ সাদী (ফারসি)",
+  "type": "matn",
   "lang": "fa"
  },
- "mizan/Original__23_Ilm-us-Sarf_Akhirin_Urdu_-al-Bushra.pdf": {
+ "mizan/Matn-Ur__23_Ilm-us-Sarf_Akhirin_Urdu_-al-Bushra.pdf": {
   "title": "ইলমুস সরফ - আখেরীন (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "mizan/Original__23_Ilm-us-Sarf_Awwalin_Urdu_-al-Bushra.pdf": {
+ "mizan/Matn-Ur__23_Ilm-us-Sarf_Awwalin_Urdu_-al-Bushra.pdf": {
   "title": "ইলমুস সরফ - আওয়ালীন (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "nahbemir/Bangla__01_Nahbemir_Prosnottore_Shohoz-Nahbe-Mir_QA_Bangla.pdf": {
+ "nahbemir/Sharh-Bn__01_Nahbemir_Prosnottore_Shohoz-Nahbe-Mir_QA_Bangla.pdf": {
   "title": "প্রশ্নোত্তরে সহজ নাহবেমীর",
+  "type": "sharh",
   "lang": "bn"
  },
- "nahbemir/Bangla__01_Nahbemir_Shohoz_Farsi-Bangla_-with-Tumali-Khulasa-Miyate-Amel.pdf": {
+ "nahbemir/Sharh-Bn__01_Nahbemir_Shohoz_Farsi-Bangla_-with-Tumali-Khulasa-Miyate-Amel.pdf": {
   "title": "সহজ নাহবেমীর (ফারসি-বাংলা)",
+  "type": "sharh",
   "lang": "bn"
  },
- "nahbemir/Bangla__02_Ilmus-Sarf_Prosnottore_Bangla_QA_-Charthawali.pdf": {
+ "nahbemir/Sharh-Bn__02_Ilmus-Sarf_Prosnottore_Bangla_QA_-Charthawali.pdf": {
   "title": "প্রশ্নোত্তরে ইলমুস সরফ",
+  "type": "sharh",
   "lang": "bn"
  },
- "nahbemir/Bangla__02_Ilmus-Sarf_o_Panjganj_Darse-Ilmus-Sarf_Bangla_-Nurul-Amin.pdf": {
+ "nahbemir/Sharh-Bn__02_Ilmus-Sarf_o_Panjganj_Darse-Ilmus-Sarf_Bangla_-Nurul-Amin.pdf": {
   "title": "দরসে ইলমুস সরফ ও পাঞ্জগাঞ্জ",
+  "type": "sharh",
   "lang": "bn"
  },
- "nahbemir/Bangla__03_Sharhe-Miyate-Amel_Shohoz_Bangla-tarjuma-tarkib-byakhya.pdf": {
+ "nahbemir/Sharh-Bn__03_Sharhe-Miyate-Amel_Shohoz_Bangla-tarjuma-tarkib-byakhya.pdf": {
   "title": "সহজ শরহে মিয়াতে আমেল",
+  "type": "sharh",
   "lang": "bn"
  },
- "nahbemir/Bangla__04_Panjganj_ba_Azizut-Talibeen_Bangla.pdf": {
+ "nahbemir/Sharh-Bn__04_Panjganj_ba_Azizut-Talibeen_Bangla.pdf": {
   "title": "পাঞ্জগাঞ্জ - আযীযুত তালেবীন",
+  "type": "sharh",
   "lang": "bn"
  },
- "nahbemir/Bangla__05_Mala-Budda-Minhu_Prosnottore_Bangla_QA_-Panipati.pdf": {
+ "nahbemir/Sharh-Bn__05_Mala-Budda-Minhu_Prosnottore_Bangla_QA_-Panipati.pdf": {
   "title": "প্রশ্নোত্তরে মালাবুদ্দা মিনহু",
+  "type": "sharh",
   "lang": "bn"
  },
- "nahbemir/Bangla__06_Rawzatul-Adab_Arabic-Bangla.pdf": {
+ "nahbemir/Matn-Bn__06_Rawzatul-Adab_Arabic-Bangla.pdf": {
   "title": "রওযাতুল আদব (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "nahbemir/Bangla__07_Sirate-Khatimul-Ambiya_Bangla_-Mufti-Shafi.pdf": {
+ "nahbemir/Matn-Bn__07_Sirate-Khatimul-Ambiya_Bangla_-Mufti-Shafi.pdf": {
   "title": "সীরাতে খাতামুল আম্বিয়া",
+  "type": "matn",
   "lang": "bn"
  },
- "nahbemir/Bangla__09_Qasasun-Nabiyyeen_Shohoz_Bangla_Khondo-2-only.pdf": {
+ "nahbemir/Sharh-Bn__09_Qasasun-Nabiyyeen_Shohoz_Bangla_Khondo-2-only.pdf": {
   "title": "সহজ কাসাসুন নাবিয়্যীন - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "nahbemir/Bangla__10_Gulistan_Saadi_Bangla.pdf": {
+ "nahbemir/Matn-Bn__10_Gulistan_Saadi_Bangla.pdf": {
   "title": "গুলিস্তাঁ - শেখ সাদী (বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "nahbemir/Bangla__Al-Fiqhul-Muyassar_Bangla_-Shafiqur-Rahman-Nadwi.pdf": {
+ "nahbemir/Matn-Bn__Al-Fiqhul-Muyassar_Bangla_-Shafiqur-Rahman-Nadwi.pdf": {
   "title": "আল-ফিকহুল মুয়াসসার (বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "nahbemir/Bangla__Tarikhul-Islam_Bangla_Khondo-1-only_-Muhammad-Mia.pdf": {
+ "nahbemir/Matn-Bn__Tarikhul-Islam_Bangla_Khondo-1-only_-Muhammad-Mia.pdf": {
   "title": "তারীখুল ইসলাম - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "nahbemir/Original__01_Nahw-Mir_Arabic-matn_-from-Farsi.pdf": {
+ "nahbemir/Matn-Ar__01_Nahw-Mir_Arabic-matn_-from-Farsi.pdf": {
   "title": "নাহবেমীর (আরবি মতন)",
+  "type": "matn",
   "lang": "ar"
  },
- "nahbemir/Original__01_Nahw-Mir_Farsi_Maktaba-al-Bushra.pdf": {
+ "nahbemir/Matn-Fa__01_Nahw-Mir_Farsi_Maktaba-al-Bushra.pdf": {
   "title": "নাহবেমীর (ফারসি, বুশরা)",
+  "type": "matn",
   "lang": "fa"
  },
- "nahbemir/Original__01_Nahw-Mir_Urdu_Iqna-al-Damir_-tarjuma.pdf": {
+ "nahbemir/Sharh-Ur__01_Nahw-Mir_Urdu_Iqna-al-Damir_-tarjuma.pdf": {
   "title": "নাহবেমীর - ইকনাউয যমীর (উর্দু)",
+  "type": "sharh",
   "lang": "ur"
  },
- "nahbemir/Original__02_Ilmus-Sarf_Urdu_Aakherain_Charthawali_Bushra.pdf": {
+ "nahbemir/Matn-Ur__02_Ilmus-Sarf_Urdu_Aakherain_Charthawali_Bushra.pdf": {
   "title": "ইলমুস সরফ - আখেরীন (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "nahbemir/Original__02_Ilmus-Sarf_Urdu_Awwalain_Charthawali_Bushra.pdf": {
+ "nahbemir/Matn-Ur__02_Ilmus-Sarf_Urdu_Awwalain_Charthawali_Bushra.pdf": {
   "title": "ইলমুস সরফ - আওয়ালীন (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "nahbemir/Original__03_Sharh-Miata-Amil_Arabic_Jami.pdf": {
+ "nahbemir/Matn-Ar__03_Sharh-Miata-Amil_Arabic_Jami.pdf": {
   "title": "শরহে মিয়াতে আমেল - জামী (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "nahbemir/Original__04_Panj-Ganj_Sarf_-five-treatises.pdf": {
+ "nahbemir/Matn-Fa__04_Panj-Ganj_Sarf_-five-treatises.pdf": {
   "title": "পাঞ্জগাঞ্জ (ফারসি)",
+  "type": "matn",
   "lang": "fa"
  },
- "nahbemir/Original__05_Mala-Budda-Minhu_Farsi_-Panipati.pdf": {
+ "nahbemir/Matn-Fa__05_Mala-Budda-Minhu_Farsi_-Panipati.pdf": {
   "title": "মালাবুদ্দা মিনহু (ফারসি)",
+  "type": "matn",
   "lang": "fa"
  },
- "nahbemir/Original__05_Mala-Budda-Minhu_Urdu_Kashf-al-Hajah.pdf": {
+ "nahbemir/Sharh-Ur__05_Mala-Budda-Minhu_Urdu_Kashf-al-Hajah.pdf": {
   "title": "মালাবুদ্দা মিনহু - কাশফুল হাজাহ (উর্দু)",
+  "type": "sharh",
   "lang": "ur"
  },
- "nahbemir/Original__07_Seerat-Khatamul-Anbiya_Urdu_Mufti-Shafi_Darul-Ishaat.pdf": {
+ "nahbemir/Matn-Ur__07_Seerat-Khatamul-Anbiya_Urdu_Mufti-Shafi_Darul-Ishaat.pdf": {
   "title": "সীরাতে খাতামুল আম্বিয়া (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "nahbemir/Original__08_Al-Qiraah-al-Rashidah_Arabic_complete_-Nadwi.pdf": {
+ "nahbemir/Matn-Ar__08_Al-Qiraah-al-Rashidah_Arabic_complete_-Nadwi.pdf": {
   "title": "আল-কিরাআতুর রাশেদা (পূর্ণ)",
+  "type": "matn",
   "lang": "ar"
  },
- "nahbemir/Original__09_Qasas-al-Nabiyyin_Arabic_vol-1-4_-Nadwi.pdf": {
+ "nahbemir/Matn-Ar__09_Qasas-al-Nabiyyin_Arabic_vol-1-4_-Nadwi.pdf": {
   "title": "কাসাসুন নাবিয়্যীন (১-৪ খণ্ড)",
+  "type": "matn",
   "lang": "ar"
  },
- "nahbemir/Original__09_Qasas-al-Nabiyyin_Arabic_vol-5_-Nadwi.pdf": {
+ "nahbemir/Matn-Ar__09_Qasas-al-Nabiyyin_Arabic_vol-5_-Nadwi.pdf": {
   "title": "কাসাসুন নাবিয়্যীন - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "nahbemir/Original__10_Gulistan-Saadi_Farsi_with-Hashiya.pdf": {
+ "nahbemir/Matn-Fa__10_Gulistan-Saadi_Farsi_with-Hashiya.pdf": {
   "title": "গুলিস্তাঁ - শেখ সাদী (ফারসি, হাশিয়াসহ)",
+  "type": "matn",
   "lang": "fa"
  },
- "nahbemir/Original__11_Bostan-Saadi_Farsi_with-Hashiya.pdf": {
+ "nahbemir/Matn-Fa__11_Bostan-Saadi_Farsi_with-Hashiya.pdf": {
   "title": "বোস্তাঁ - শেখ সাদী (ফারসি, হাশিয়াসহ)",
+  "type": "matn",
   "lang": "fa"
  },
- "nahbemir/Original__Al-Fiqhul-Muyassar_Arabic_-Shafiqur-Rahman-Nadwi.pdf": {
+ "nahbemir/Matn-Ar__Al-Fiqhul-Muyassar_Arabic_-Shafiqur-Rahman-Nadwi.pdf": {
   "title": "আল-ফিকহুল মুয়াসসার (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "nahbemir/Original__Misbahul-Awamil_Urdu_Sharh-Miata-Amil.pdf": {
+ "nahbemir/Sharh-Ur__Misbahul-Awamil_Urdu_Sharh-Miata-Amil.pdf": {
   "title": "মিসবাহুল আওয়ামিল - শরহে মিয়াতে আমেল (উর্দু)",
+  "type": "sharh",
   "lang": "ur"
  },
- "nahbemir/Original__Sharh_Badre-Muneer_Urdu_Nahw-Mir.pdf": {
+ "nahbemir/Sharh-Ur__Sharh_Badre-Muneer_Urdu_Nahw-Mir.pdf": {
   "title": "বদরে মুনীর - শরহে নাহবেমীর (উর্দু)",
+  "type": "sharh",
   "lang": "ur"
  },
- "nahbemir/Original__Sharh_Bahare-Gulistan_Urdu_-Zafar-Alam.pdf": {
+ "nahbemir/Sharh-Ur__Sharh_Bahare-Gulistan_Urdu_-Zafar-Alam.pdf": {
   "title": "বাহারে গুলিস্তাঁ - শরহে গুলিস্তাঁ (উর্দু)",
+  "type": "sharh",
   "lang": "ur"
  },
- "nahbemir/Original__Tarikh-e-Islam_Urdu_complete-3-parts_-Muhammad-Mia.pdf": {
+ "nahbemir/Matn-Ur__Tarikh-e-Islam_Urdu_complete-3-parts_-Muhammad-Mia.pdf": {
   "title": "তারীখে ইসলাম (উর্দু, পূর্ণ ৩ খণ্ড)",
+  "type": "matn",
   "lang": "ur"
  },
- "hedayatun-nahu/Bangla__01_Hedayatun-Nahu_Arabic-Bangla.pdf": {
+ "hedayatun-nahu/Matn-Bn__01_Hedayatun-Nahu_Arabic-Bangla.pdf": {
   "title": "হেদায়াতুন নাহু (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "hedayatun-nahu/Bangla__02_Sohoj-Ilmus-Sigah_Bangla-translation.pdf": {
+ "hedayatun-nahu/Sharh-Bn__02_Sohoj-Ilmus-Sigah_Bangla-translation.pdf": {
   "title": "সহজ ইলমুস সীগাহ",
+  "type": "sharh",
   "lang": "bn"
  },
- "hedayatun-nahu/Bangla__03_Nurul-Izah_Bangla.pdf": {
+ "hedayatun-nahu/Matn-Bn__03_Nurul-Izah_Bangla.pdf": {
   "title": "নূরুল ঈযাহ",
+  "type": "matn",
   "lang": "bn"
  },
- "hedayatun-nahu/Bangla__04_Qalyubi_Arabic-Bangla.pdf": {
+ "hedayatun-nahu/Matn-Bn__04_Qalyubi_Arabic-Bangla.pdf": {
   "title": "কালয়ূবী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "hedayatun-nahu/Bangla__05_Taisirul-Mantiq_Bangla.pdf": {
+ "hedayatun-nahu/Matn-Bn__05_Taisirul-Mantiq_Bangla.pdf": {
   "title": "তাইসীরুল মানতিক",
+  "type": "matn",
   "lang": "bn"
  },
- "hedayatun-nahu/Bangla__08_Nafhatul-Arab_Bangla.pdf": {
+ "hedayatun-nahu/Matn-Bn__08_Nafhatul-Arab_Bangla.pdf": {
   "title": "নাফহাতুল আরব",
+  "type": "matn",
   "lang": "bn"
  },
- "hedayatun-nahu/Bangla__09_Zadut-Talibin_Arabic-Bangla.pdf": {
+ "hedayatun-nahu/Matn-Bn__09_Zadut-Talibin_Arabic-Bangla.pdf": {
   "title": "যাদুত তালিবীন (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "hedayatun-nahu/Original__01_Hidayat-al-Nahw_Arabic-matn_with-Urdu-hashiya.pdf": {
+ "hedayatun-nahu/Matn-Ar__01_Hidayat-al-Nahw_Arabic-matn_with-Urdu-hashiya.pdf": {
   "title": "হেদায়াতুন নাহু (আরবি মতন, উর্দু হাশিয়া)",
+  "type": "matn",
   "lang": "ar"
  },
- "hedayatun-nahu/Original__02_Ilmus-Sigah_Farsi-matn_Qadimi-Kutub-Khana.pdf": {
+ "hedayatun-nahu/Matn-Fa__02_Ilmus-Sigah_Farsi-matn_Qadimi-Kutub-Khana.pdf": {
   "title": "ইলমুস সীগাহ (ফারসি মতন)",
+  "type": "matn",
   "lang": "fa"
  },
- "hedayatun-nahu/Original__03_Nur-al-Idah_Arabic-matn.pdf": {
+ "hedayatun-nahu/Matn-Ar__03_Nur-al-Idah_Arabic-matn.pdf": {
   "title": "নূরুল ঈযাহ (আরবি মতন)",
+  "type": "matn",
   "lang": "ar"
  },
- "hedayatun-nahu/Original__04_Nawadir-al-Qalyubi_Arabic_Cairo-1311AH.pdf": {
+ "hedayatun-nahu/Matn-Ar__04_Nawadir-al-Qalyubi_Arabic_Cairo-1311AH.pdf": {
   "title": "নাওয়াদিরুল কালয়ূবী (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "hedayatun-nahu/Original__05_Taisirul-Mantiq_Urdu_Abdullah-Gangohi_Bushra.pdf": {
+ "hedayatun-nahu/Matn-Ur__05_Taisirul-Mantiq_Urdu_Abdullah-Gangohi_Bushra.pdf": {
   "title": "তাইসীরুল মানতিক (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "hedayatun-nahu/Original__06_Qasas-al-Nabiyyin_Vol-3_Arabic_Nadwi.pdf": {
+ "hedayatun-nahu/Matn-Ar__06_Qasas-al-Nabiyyin_Vol-3_Arabic_Nadwi.pdf": {
   "title": "কাসাসুন নাবিয়্যীন - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "hedayatun-nahu/Original__07_Qasas-al-Nabiyyin_Vol-4_Arabic_Nadwi.pdf": {
+ "hedayatun-nahu/Matn-Ar__07_Qasas-al-Nabiyyin_Vol-4_Arabic_Nadwi.pdf": {
   "title": "কাসাসুন নাবিয়্যীন - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "hedayatun-nahu/Original__08_Nafhat-al-Arab_Arabic_Maktaba-al-Bushra.pdf": {
+ "hedayatun-nahu/Matn-Ar__08_Nafhat-al-Arab_Arabic_Maktaba-al-Bushra.pdf": {
   "title": "নাফহাতুল আরব (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "hedayatun-nahu/Original__09_Zad-al-Talibin_Arabic_Ashiq-Ilahi_Bushra.pdf": {
+ "hedayatun-nahu/Matn-Ar__09_Zad-al-Talibin_Arabic_Ashiq-Ilahi_Bushra.pdf": {
   "title": "যাদুত তালিবীন (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "hedayatun-nahu/Original__13_Nafhat-al-Yaman_Arabic.pdf": {
+ "hedayatun-nahu/Matn-Ar__13_Nafhat-al-Yaman_Arabic.pdf": {
   "title": "নাফহাতুল ইয়ামান (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Bangla__01-Kafia-Arabi-Bangla.pdf": {
+ "kafiya/Matn-Bn__01-Kafia-Arabi-Bangla.pdf": {
   "title": "কাফিয়া (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "kafiya/Bangla__05-Misbahun-Nuri-Sharh-Mukhtasarul-Quduri-Vol-1.pdf": {
+ "kafiya/Sharh-Bn__05-Misbahun-Nuri-Sharh-Mukhtasarul-Quduri-Vol-1.pdf": {
   "title": "মিসবাহুন নূরী - শরহে কুদূরী ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "kafiya/Bangla__05-Misbahun-Nuri-Sharh-Mukhtasarul-Quduri-Vol-2.pdf": {
+ "kafiya/Sharh-Bn__05-Misbahun-Nuri-Sharh-Mukhtasarul-Quduri-Vol-2.pdf": {
   "title": "মিসবাহুন নূরী - শরহে কুদূরী ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "kafiya/Bangla__07-Nurul-Hawashi-Sharh-Usulush-Shashi-Arabi-Bangla.pdf": {
+ "kafiya/Sharh-Bn__07-Nurul-Hawashi-Sharh-Usulush-Shashi-Arabi-Bangla.pdf": {
   "title": "নূরুল হাওয়াশী - শরহে উসূলুশ শাশী",
+  "type": "sharh",
   "lang": "bn"
  },
- "kafiya/Bangla__09-Al-Ifadat-Sharhe-Mirqat-Arabi-Bangla.pdf": {
+ "kafiya/Sharh-Bn__09-Al-Ifadat-Sharhe-Mirqat-Arabi-Bangla.pdf": {
   "title": "আল-ইফাদাত - শরহে মিরকাত",
+  "type": "sharh",
   "lang": "bn"
  },
- "kafiya/Bangla__10-Asbaqul-Fasahat-Sharhe-Durusul-Balaghat-Bangla.pdf": {
+ "kafiya/Sharh-Bn__10-Asbaqul-Fasahat-Sharhe-Durusul-Balaghat-Bangla.pdf": {
   "title": "আসবাকুল ফাসাহাত - শরহে দুরূসুল বালাগাত",
+  "type": "sharh",
   "lang": "bn"
  },
- "kafiya/Bangla__11-Taisirul-Mantiq-Bangla.pdf": {
+ "kafiya/Matn-Bn__11-Taisirul-Mantiq-Bangla.pdf": {
   "title": "তাইসীরুল মানতিক",
+  "type": "matn",
   "lang": "bn"
  },
- "kafiya/Bangla__12-Talimul-Mutaallim-Bangla.pdf": {
+ "kafiya/Matn-Bn__12-Talimul-Mutaallim-Bangla.pdf": {
   "title": "তা'লীমুল মুতাআল্লিম",
+  "type": "matn",
   "lang": "bn"
  },
- "kafiya/Bangla__13-Lamiyatul-Mujizat-Arabi-Bangla.pdf": {
+ "kafiya/Matn-Bn__13-Lamiyatul-Mujizat-Arabi-Bangla.pdf": {
   "title": "লামিয়াতুল মু'জিযাত (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "kafiya/Bangla__15-Nafhatul-Arab-Bangla.pdf": {
+ "kafiya/Matn-Bn__15-Nafhatul-Arab-Bangla.pdf": {
   "title": "নাফহাতুল আরব",
+  "type": "matn",
   "lang": "bn"
  },
- "kafiya/Bangla__19-Tafhimul-Quduri-Sharhe-Mukhtasarul-Quduri-Bangla.pdf": {
+ "kafiya/Sharh-Bn__19-Tafhimul-Quduri-Sharhe-Mukhtasarul-Quduri-Bangla.pdf": {
   "title": "তাফহীমুল কুদূরী - শরহে মুখতাসারুল কুদূরী",
+  "type": "sharh",
   "lang": "bn"
  },
- "kafiya/Original__01-Al-Kafiya-fil-Nahw-wa-Al-Shafia-Arabic.pdf": {
+ "kafiya/Matn-Ar__01-Al-Kafiya-fil-Nahw-wa-Al-Shafia-Arabic.pdf": {
   "title": "আল-কাফিয়া ফিন নাহু ও আশ-শাফিয়া",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__04-Mukhtasar-al-Quduri-Arabic.pdf": {
+ "kafiya/Matn-Ar__04-Mukhtasar-al-Quduri-Arabic.pdf": {
   "title": "মুখতাসারুল কুদূরী",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__06-Usul-al-Shashi-Arabic-Nadwi.pdf": {
+ "kafiya/Matn-Ar__06-Usul-al-Shashi-Arabic-Nadwi.pdf": {
   "title": "উসূলুশ শাশী (নদভী সংস্করণ)",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__06-Usul-al-Shashi-Maal-Hawashi-Arabic.pdf": {
+ "kafiya/Matn-Ar__06-Usul-al-Shashi-Maal-Hawashi-Arabic.pdf": {
   "title": "উসূলুশ শাশী (হাওয়াশীসহ)",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__08-Al-Mirqat-fil-Mantiq-Arabic-with-Taqwiyat.pdf": {
+ "kafiya/Matn-Ar__08-Al-Mirqat-fil-Mantiq-Arabic-with-Taqwiyat.pdf": {
   "title": "আল-মিরকাত ফিল মানতিক",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__10-Durusul-Balaghat-Arabic-with-Shumus-al-Balagha.pdf": {
+ "kafiya/Matn-Ar__10-Durusul-Balaghat-Arabic-with-Shumus-al-Balagha.pdf": {
   "title": "দুরূসুল বালাগাত (শুমূসুল বালাগাহসহ)",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__11-Taisirul-Mantiq-Urdu-Bushra.pdf": {
+ "kafiya/Matn-Ur__11-Taisirul-Mantiq-Urdu-Bushra.pdf": {
   "title": "তাইসীরুল মানতিক (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "kafiya/Original__12-Talimul-Mutaallim-Arabic.pdf": {
+ "kafiya/Matn-Ar__12-Talimul-Mutaallim-Arabic.pdf": {
   "title": "তা'লীমুল মুতাআল্লিম (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__13-Lamiyatul-Mujizat-Arabic-Urdu.pdf": {
+ "kafiya/Matn-Ar__13-Lamiyatul-Mujizat-Arabic-Urdu.pdf": {
   "title": "লামিয়াতুল মু'জিযাত (আরবি-উর্দু)",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__15-Nafhatul-Arab-Arabic-Bushra.pdf": {
+ "kafiya/Matn-Ar__15-Nafhatul-Arab-Arabic-Bushra.pdf": {
   "title": "নাফহাতুল আরব (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "kafiya/Original__16-Tahrir-Sambat-Sharh-Kafiya-Arabic.pdf": {
+ "kafiya/Sharh-Ar__16-Tahrir-Sambat-Sharh-Kafiya-Arabic.pdf": {
   "title": "তাহরীরে সম্বট - শরহে কাফিয়া",
+  "type": "sharh",
   "lang": "ar"
  },
- "kafiya/Original__18-Ajmalul-Hawashi-Urdu-Sharh-Usulush-Shashi.pdf": {
+ "kafiya/Sharh-Ur__18-Ajmalul-Hawashi-Urdu-Sharh-Usulush-Shashi.pdf": {
   "title": "আজমালুল হাওয়াশী - শরহে উসূলুশ শাশী (উর্দু)",
+  "type": "sharh",
   "lang": "ur"
  },
- "sharhe-jami/Bangla__01_Sharhe_Jami_Sahaj_Sharhe_Jami_Arabi-Bangla.pdf": {
+ "sharhe-jami/Sharh-Bn__01_Sharhe_Jami_Sahaj_Sharhe_Jami_Arabi-Bangla.pdf": {
   "title": "সহজ শরহে জামী (আরবি-বাংলা)",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__02_Tashilul_Haqaiq_Bangla_Kanzud_Daqaiq_Vol1.pdf": {
+ "sharhe-jami/Sharh-Bn__02_Tashilul_Haqaiq_Bangla_Kanzud_Daqaiq_Vol1.pdf": {
   "title": "তাসহীলুল হাকায়েক - শরহে কানযুদ দাকায়েক ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__02_Tashilul_Haqaiq_Bangla_Kanzud_Daqaiq_Vol2.pdf": {
+ "sharhe-jami/Sharh-Bn__02_Tashilul_Haqaiq_Bangla_Kanzud_Daqaiq_Vol2.pdf": {
   "title": "তাসহীলুল হাকায়েক - শরহে কানযুদ দাকায়েক ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__03_At-Taqrib_Sharhe_Tahzeeb_Bangla.pdf": {
+ "sharhe-jami/Sharh-Bn__03_At-Taqrib_Sharhe_Tahzeeb_Bangla.pdf": {
   "title": "আত-তাকরীব - শরহে তাহযীব",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__04_Alfiyyatul_Hadis_Manzur_Nomani_Arabi-Bangla.pdf": {
+ "sharhe-jami/Matn-Bn__04_Alfiyyatul_Hadis_Manzur_Nomani_Arabi-Bangla.pdf": {
   "title": "আলফিয়্যাতুল হাদীস - মানযুর নোমানী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__05_Mukhtasarul_Maani_Arabi-Bangla.pdf": {
+ "sharhe-jami/Matn-Bn__05_Mukhtasarul_Maani_Arabi-Bangla.pdf": {
   "title": "মুখতাসারুল মাআনী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__06_Anwarul_Manar_Sharhe_Nurul_Anwar_Vol1_Arabi-Bangla.pdf": {
+ "sharhe-jami/Sharh-Bn__06_Anwarul_Manar_Sharhe_Nurul_Anwar_Vol1_Arabi-Bangla.pdf": {
   "title": "আনওয়ারুল মানার - শরহে নূরুল আনওয়ার ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__06_Anwarul_Manar_Sharhe_Nurul_Anwar_Vol2_Arabi-Bangla.pdf": {
+ "sharhe-jami/Sharh-Bn__06_Anwarul_Manar_Sharhe_Nurul_Anwar_Vol2_Arabi-Bangla.pdf": {
   "title": "আনওয়ারুল মানার - শরহে নূরুল আনওয়ার ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__06_Qutul_Akhyar_Sharhe_Nurul_Anwar_Vol1_Bangla.pdf": {
+ "sharhe-jami/Sharh-Bn__06_Qutul_Akhyar_Sharhe_Nurul_Anwar_Vol1_Bangla.pdf": {
   "title": "কুতুল আখইয়ার - শরহে নূরুল আনওয়ার ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__07_Maqamat_e_Hariri_Arabi-Bangla.pdf": {
+ "sharhe-jami/Matn-Bn__07_Maqamat_e_Hariri_Arabi-Bangla.pdf": {
   "title": "মাকামাতে হারীরী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__08_Prashnottore_Sahaj_Talkhisul_Miftah_Arabi-Bangla.pdf": {
+ "sharhe-jami/Sharh-Bn__08_Prashnottore_Sahaj_Talkhisul_Miftah_Arabi-Bangla.pdf": {
   "title": "প্রশ্নোত্তরে সহজ তালখীসুল মিফতাহ",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Bangla__11_Anwarud_Diraya_Sharhe_Bekaya_Vol1_Arabi-Bangla.pdf": {
+ "sharhe-jami/Sharh-Bn__11_Anwarud_Diraya_Sharhe_Bekaya_Vol1_Arabi-Bangla.pdf": {
   "title": "আনওয়ারুদ দিরায়া - শরহে বেকায়া ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-jami/Original__01_Sharhe_Jami_Al-Fawaid_al-Ziyaiyah_Arabic.pdf": {
+ "sharhe-jami/Matn-Ar__01_Sharhe_Jami_Al-Fawaid_al-Ziyaiyah_Arabic.pdf": {
   "title": "শরহে জামী - আল-ফাওয়াইদুয যিয়াইয়্যাহ",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__02_Kanzud_Daqaiq_Arabic_Matn.pdf": {
+ "sharhe-jami/Matn-Ar__02_Kanzud_Daqaiq_Arabic_Matn.pdf": {
   "title": "কানযুদ দাকায়েক (মতন)",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__03_Sharhe_Tahzeeb_al-Mantiq_Yazdi_Arabic.pdf": {
+ "sharhe-jami/Matn-Ar__03_Sharhe_Tahzeeb_al-Mantiq_Yazdi_Arabic.pdf": {
   "title": "শরহে তাহযীব - ইয়াযদী",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__05_Mukhtasarul_Maani_Arabic_Vol1.pdf": {
+ "sharhe-jami/Matn-Ar__05_Mukhtasarul_Maani_Arabic_Vol1.pdf": {
   "title": "মুখতাসারুল মাআনী - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__05_Mukhtasarul_Maani_Arabic_Vol2.pdf": {
+ "sharhe-jami/Matn-Ar__05_Mukhtasarul_Maani_Arabic_Vol2.pdf": {
   "title": "মুখতাসারুল মাআনী - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__06_Nurul_Anwar_fi_Sharh_al-Manar_Arabic.pdf": {
+ "sharhe-jami/Matn-Ar__06_Nurul_Anwar_fi_Sharh_al-Manar_Arabic.pdf": {
   "title": "নূরুল আনওয়ার ফী শরহিল মানার",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__07_Maqamat_al-Hariri_Arabic.pdf": {
+ "sharhe-jami/Matn-Ar__07_Maqamat_al-Hariri_Arabic.pdf": {
   "title": "মাকামাতে হারীরী",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__08_Talkhisul_Miftah_Arabic_Matn.pdf": {
+ "sharhe-jami/Matn-Ar__08_Talkhisul_Miftah_Arabic_Matn.pdf": {
   "title": "তালখীসুল মিফতাহ (মতন)",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__09_Tareekh_e_Millat_Urdu_Vol1.pdf": {
+ "sharhe-jami/Matn-Ur__09_Tareekh_e_Millat_Urdu_Vol1.pdf": {
   "title": "তারীখে মিল্লাত - ১ম খণ্ড (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "sharhe-jami/Original__09_Tareekh_e_Millat_Urdu_Vol2.pdf": {
+ "sharhe-jami/Matn-Ur__09_Tareekh_e_Millat_Urdu_Vol2.pdf": {
   "title": "তারীখে মিল্লাত - ২য় খণ্ড (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "sharhe-jami/Original__09_Tareekh_e_Millat_Urdu_Vol3.pdf": {
+ "sharhe-jami/Matn-Ur__09_Tareekh_e_Millat_Urdu_Vol3.pdf": {
   "title": "তারীখে মিল্লাত - ৩য় খণ্ড (উর্দু)",
+  "type": "matn",
   "lang": "ur"
  },
- "sharhe-jami/Original__10_At-Tariq_ilal_Insha_Arabic_Vol3.pdf": {
+ "sharhe-jami/Matn-Ar__10_At-Tariq_ilal_Insha_Arabic_Vol3.pdf": {
   "title": "আত-তারীক ইলাল ইনশা - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__11_Sharhe_Wiqayah_Arabic_Vol1.pdf": {
+ "sharhe-jami/Matn-Ar__11_Sharhe_Wiqayah_Arabic_Vol1.pdf": {
   "title": "শরহে বেকায়া - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__11_Sharhe_Wiqayah_Arabic_Vol2.pdf": {
+ "sharhe-jami/Matn-Ar__11_Sharhe_Wiqayah_Arabic_Vol2.pdf": {
   "title": "শরহে বেকায়া - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__11_Sharhe_Wiqayah_Arabic_Vol3.pdf": {
+ "sharhe-jami/Matn-Ar__11_Sharhe_Wiqayah_Arabic_Vol3.pdf": {
   "title": "শরহে বেকায়া - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__11_Sharhe_Wiqayah_Arabic_Vol4.pdf": {
+ "sharhe-jami/Matn-Ar__11_Sharhe_Wiqayah_Arabic_Vol4.pdf": {
   "title": "শরহে বেকায়া - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-jami/Original__11_Sharhe_Wiqayah_Arabic_Vol5.pdf": {
+ "sharhe-jami/Matn-Ar__11_Sharhe_Wiqayah_Arabic_Vol5.pdf": {
   "title": "শরহে বেকায়া - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Bangla__01_Sharhe_Bekaya_1_Anwarud_Diraya_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Sharh-Bn__01_Sharhe_Bekaya_1_Anwarud_Diraya_Arbi-Bangla.pdf": {
   "title": "আনওয়ারুদ দিরায়া - শরহে বেকায়া ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__03_Nurul_Anwar_Anwarul_Manar_1_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Sharh-Bn__03_Nurul_Anwar_Anwarul_Manar_1_Arbi-Bangla.pdf": {
   "title": "আনওয়ারুল মানার - শরহে নূরুল আনওয়ার ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__03b_Nurul_Anwar_Anwarul_Manar_2_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Sharh-Bn__03b_Nurul_Anwar_Anwarul_Manar_2_Arbi-Bangla.pdf": {
   "title": "আনওয়ারুল মানার - শরহে নূরুল আনওয়ার ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__04_Kutul_Akhyar_Nurul_Anwar_1_Bangla.pdf": {
+ "sharhe-bekaya/Sharh-Bn__04_Kutul_Akhyar_Nurul_Anwar_1_Bangla.pdf": {
   "title": "কুতুল আখইয়ার - শরহে নূরুল আনওয়ার ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__05_Mukhtasarul_Maani_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Matn-Bn__05_Mukhtasarul_Maani_Arbi-Bangla.pdf": {
   "title": "মুখতাসারুল মাআনী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__07_Sharhe_Siraji_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Matn-Bn__07_Sharhe_Siraji_Arbi-Bangla.pdf": {
   "title": "শরহে সিরাজী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__08_Kashfur_Raji_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Sharh-Bn__08_Kashfur_Raji_Arbi-Bangla.pdf": {
   "title": "কাশফুর রাজী - শরহে সিরাজী",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__09_Maqamate_Hariri_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Matn-Bn__09_Maqamate_Hariri_Arbi-Bangla.pdf": {
   "title": "মাকামাতে হারীরী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__12_Nurul_Hawashi_Usulush_Shashi_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Sharh-Bn__12_Nurul_Hawashi_Usulush_Shashi_Arbi-Bangla.pdf": {
   "title": "নূরুল হাওয়াশী - শরহে উসূলুশ শাশী",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-bekaya/Bangla__15_Talkhisul_Miftah_Prashnottare_Arbi-Bangla.pdf": {
+ "sharhe-bekaya/Sharh-Bn__15_Talkhisul_Miftah_Prashnottare_Arbi-Bangla.pdf": {
   "title": "প্রশ্নোত্তরে সহজ তালখীসুল মিফতাহ",
+  "type": "sharh",
   "lang": "bn"
  },
- "sharhe-bekaya/Original__01_Sharhe_Bekaya_Umdat_al-Riayah_Karachi_Jild_1-2.pdf": {
+ "sharhe-bekaya/Matn-Ar__01_Sharhe_Bekaya_Umdat_al-Riayah_Karachi_Jild_1-2.pdf": {
   "title": "শরহে বেকায়া - উমদাতুর রিআয়াসহ (১-২ খণ্ড)",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__02_Sharhe_Bekaya_Umdat_al-Riayah_Karachi_Jild_3-4.pdf": {
+ "sharhe-bekaya/Matn-Ar__02_Sharhe_Bekaya_Umdat_al-Riayah_Karachi_Jild_3-4.pdf": {
   "title": "শরহে বেকায়া - উমদাতুর রিআয়াসহ (৩-৪ খণ্ড)",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__03_Nurul_Anwar_1_Arabic_Bushra.pdf": {
+ "sharhe-bekaya/Matn-Ar__03_Nurul_Anwar_1_Arabic_Bushra.pdf": {
   "title": "নূরুল আনওয়ার - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__03b_Nurul_Anwar_2_Arabic_Bushra.pdf": {
+ "sharhe-bekaya/Matn-Ar__03b_Nurul_Anwar_2_Arabic_Bushra.pdf": {
   "title": "নূরুল আনওয়ার - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__05_Mukhtasarul_Maani_Arabic.pdf": {
+ "sharhe-bekaya/Matn-Ar__05_Mukhtasarul_Maani_Arabic.pdf": {
   "title": "মুখতাসারুল মাআনী",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__07_Al-Sirajiyyah_Sharh_Jurjani_Arabic.pdf": {
+ "sharhe-bekaya/Matn-Ar__07_Al-Sirajiyyah_Sharh_Jurjani_Arabic.pdf": {
   "title": "আস-সিরাজিয়্যাহ - শরহে জুরজানী (শরীফিয়্যাহ)",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__09_Maqamat_al-Hariri_Arabic_Matbaa_Bahiyya_1313AH.pdf": {
+ "sharhe-bekaya/Matn-Ar__09_Maqamat_al-Hariri_Arabic_Matbaa_Bahiyya_1313AH.pdf": {
   "title": "মাকামাতে হারীরী",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__12_Usulush_Shashi_Arabic_Bushra.pdf": {
+ "sharhe-bekaya/Matn-Ar__12_Usulush_Shashi_Arabic_Bushra.pdf": {
   "title": "উসূলুশ শাশী",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__15_Talkhisul_Miftah_Arabic_manuscript.pdf": {
+ "sharhe-bekaya/Matn-Ar__15_Talkhisul_Miftah_Arabic_manuscript.pdf": {
   "title": "তালখীসুল মিফতাহ (হস্তলিখিত)",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__17_Mukhtarat_min_Adabil_Arab_1_Arabic.pdf": {
+ "sharhe-bekaya/Matn-Ar__17_Mukhtarat_min_Adabil_Arab_1_Arabic.pdf": {
   "title": "মুখতারাত মিন আদাবিল আরব - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__17b_Mukhtarat_min_Adabil_Arab_2_Arabic.pdf": {
+ "sharhe-bekaya/Matn-Ar__17b_Mukhtarat_min_Adabil_Arab_2_Arabic.pdf": {
   "title": "মুখতারাত মিন আদাবিল আরব - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "sharhe-bekaya/Original__19_Al-Aqidatul_Hasanah_Arabic-Urdu.pdf": {
+ "sharhe-bekaya/Matn-Ar__19_Al-Aqidatul_Hasanah_Arabic-Urdu.pdf": {
   "title": "আল-আকীদাতুল হাসানাহ (আরবি-উর্দু)",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Bangla__01-Tafsire-Jalalain-Arabi-Bangla-Khand-01.pdf": {
+ "jalalain/Matn-Bn__01-Tafsire-Jalalain-Arabi-Bangla-Khand-01.pdf": {
   "title": "তাফসীরে জালালাইন (আরবি-বাংলা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__01-Tafsire-Jalalain-Arabi-Bangla-Khand-02.pdf": {
+ "jalalain/Matn-Bn__01-Tafsire-Jalalain-Arabi-Bangla-Khand-02.pdf": {
   "title": "তাফসীরে জালালাইন (আরবি-বাংলা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__01-Tafsire-Jalalain-Arabi-Bangla-Khand-03.pdf": {
+ "jalalain/Matn-Bn__01-Tafsire-Jalalain-Arabi-Bangla-Khand-03.pdf": {
   "title": "তাফসীরে জালালাইন (আরবি-বাংলা) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__01-Tafsire-Jalalain-Arabi-Bangla-Khand-04.pdf": {
+ "jalalain/Matn-Bn__01-Tafsire-Jalalain-Arabi-Bangla-Khand-04.pdf": {
   "title": "তাফসীরে জালালাইন (আরবি-বাংলা) - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__01-Tafsire-Jalalain-Arabi-Bangla-Khand-05.pdf": {
+ "jalalain/Matn-Bn__01-Tafsire-Jalalain-Arabi-Bangla-Khand-05.pdf": {
   "title": "তাফসীরে জালালাইন (আরবি-বাংলা) - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__01-Tafsire-Jalalain-Arabi-Bangla-Khand-06.pdf": {
+ "jalalain/Matn-Bn__01-Tafsire-Jalalain-Arabi-Bangla-Khand-06.pdf": {
   "title": "তাফসীরে জালালাইন (আরবি-বাংলা) - ৬ষ্ঠ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__01-Tafsire-Jalalain-Arabi-Bangla-Khand-07.pdf": {
+ "jalalain/Matn-Bn__01-Tafsire-Jalalain-Arabi-Bangla-Khand-07.pdf": {
   "title": "তাফসীরে জালালাইন (আরবি-বাংলা) - ৭ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__02-Al-Hedaya-IFA-Bangla-Khand-01.pdf": {
+ "jalalain/Matn-Bn__02-Al-Hedaya-IFA-Bangla-Khand-01.pdf": {
   "title": "আল-হেদায়া (ইফা বাংলা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__02-Al-Hedaya-IFA-Bangla-Khand-02.pdf": {
+ "jalalain/Matn-Bn__02-Al-Hedaya-IFA-Bangla-Khand-02.pdf": {
   "title": "আল-হেদায়া (ইফা বাংলা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__02-Al-Hedaya-IFA-Bangla-Khand-03.pdf": {
+ "jalalain/Matn-Bn__02-Al-Hedaya-IFA-Bangla-Khand-03.pdf": {
   "title": "আল-হেদায়া (ইফা বাংলা) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__02-Al-Hedaya-IFA-Bangla-Khand-04.pdf": {
+ "jalalain/Matn-Bn__02-Al-Hedaya-IFA-Bangla-Khand-04.pdf": {
   "title": "আল-হেদায়া (ইফা বাংলা) - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__03-Ashraful-Hedaya-Bangla-Khand-01.pdf": {
+ "jalalain/Sharh-Bn__03-Ashraful-Hedaya-Bangla-Khand-01.pdf": {
   "title": "আশরাফুল হেদায়া - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__03-Ashraful-Hedaya-Bangla-Khand-02.pdf": {
+ "jalalain/Sharh-Bn__03-Ashraful-Hedaya-Bangla-Khand-02.pdf": {
   "title": "আশরাফুল হেদায়া - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__03-Ashraful-Hedaya-Bangla-Khand-03.pdf": {
+ "jalalain/Sharh-Bn__03-Ashraful-Hedaya-Bangla-Khand-03.pdf": {
   "title": "আশরাফুল হেদায়া - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__03-Ashraful-Hedaya-Bangla-Khand-05.pdf": {
+ "jalalain/Sharh-Bn__03-Ashraful-Hedaya-Bangla-Khand-05.pdf": {
   "title": "আশরাফুল হেদায়া - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__03-Ashraful-Hedaya-Bangla-Khand-06.pdf": {
+ "jalalain/Sharh-Bn__03-Ashraful-Hedaya-Bangla-Khand-06.pdf": {
   "title": "আশরাফুল হেদায়া - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__03-Ashraful-Hedaya-Bangla-Khand-09.pdf": {
+ "jalalain/Sharh-Bn__03-Ashraful-Hedaya-Bangla-Khand-09.pdf": {
   "title": "আশরাফুল হেদায়া - ৯ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__04-Riyadus-Saliheen-Bangla-Khand-01-04-combined.pdf": {
+ "jalalain/Matn-Bn__04-Riyadus-Saliheen-Bangla-Khand-01-04-combined.pdf": {
   "title": "রিয়াযুস সালেহীন (১-৪ খণ্ড একত্রে)",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__05a-Al-Fawzul-Kabir-Fi-Usulit-Tafsir-Bangla.pdf": {
+ "jalalain/Matn-Bn__05a-Al-Fawzul-Kabir-Fi-Usulit-Tafsir-Bangla.pdf": {
   "title": "আল-ফাওযুল কাবীর ফী উসূলিত তাফসীর",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__05b-Al-Fayzul-Kasir-Sharh-Al-Fawzul-Kabir-Bangla.pdf": {
+ "jalalain/Sharh-Bn__05b-Al-Fayzul-Kasir-Sharh-Al-Fawzul-Kabir-Bangla.pdf": {
   "title": "আল-ফাইযুল কাসীর - শরহে আল-ফাওযুল কাবীর",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__06-Talimul-Mutaallim-Bangla.pdf": {
+ "jalalain/Matn-Bn__06-Talimul-Mutaallim-Bangla.pdf": {
   "title": "তা'লীমুল মুতাআল্লিম",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__07-Mukhtasarul-Maani-Arabi-Bangla.pdf": {
+ "jalalain/Matn-Bn__07-Mukhtasarul-Maani-Arabi-Bangla.pdf": {
   "title": "মুখতাসারুল মাআনী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__08-Qutul-Akhyar-Sharh-Nurul-Anwar-Bangla-Khand-01.pdf": {
+ "jalalain/Sharh-Bn__08-Qutul-Akhyar-Sharh-Nurul-Anwar-Bangla-Khand-01.pdf": {
   "title": "কুতুল আখইয়ার - শরহে নূরুল আনওয়ার ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__09-Sharhe-Siraji-Arabi-Bangla.pdf": {
+ "jalalain/Matn-Bn__09-Sharhe-Siraji-Arabi-Bangla.pdf": {
   "title": "শরহে সিরাজী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__10-Kashfur-Razi-Fi-Halle-Siraji-Arabi-Bangla.pdf": {
+ "jalalain/Sharh-Bn__10-Kashfur-Razi-Fi-Halle-Siraji-Arabi-Bangla.pdf": {
   "title": "কাশফুর রাজী ফী হল্লে সিরাজী",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__11-Lamiyatul-Mujizat-Arabi-Bangla.pdf": {
+ "jalalain/Matn-Bn__11-Lamiyatul-Mujizat-Arabi-Bangla.pdf": {
   "title": "লামিয়াতুল মু'জিযাত (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__12-Israrul-Fardabadi-Sharh-Diwanul-Mutanabbi-Arabi-Bangla.pdf": {
+ "jalalain/Sharh-Bn__12-Israrul-Fardabadi-Sharh-Diwanul-Mutanabbi-Arabi-Bangla.pdf": {
   "title": "ইসরারুল ফারদাবাদী - শরহে দীওয়ানে মুতানাব্বী",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Bangla__13a-Aqidatut-Tahawi-Arabi-Bangla.pdf": {
+ "jalalain/Matn-Bn__13a-Aqidatut-Tahawi-Arabi-Bangla.pdf": {
   "title": "আকীদাতুত তাহাবী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "jalalain/Bangla__13b-Shohoj-Aqidatut-Tahawi-Bangla.pdf": {
+ "jalalain/Sharh-Bn__13b-Shohoj-Aqidatut-Tahawi-Bangla.pdf": {
   "title": "সহজ আকীদাতুত তাহাবী",
+  "type": "sharh",
   "lang": "bn"
  },
- "jalalain/Original__01-Tafsir-al-Jalalayn-Arabic-Bushra-Vol-01.pdf": {
+ "jalalain/Matn-Ar__01-Tafsir-al-Jalalayn-Arabic-Bushra-Vol-01.pdf": {
   "title": "তাফসীরুল জালালাইন - ১ম খণ্ড (বুশরা)",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__01-Tafsir-al-Jalalayn-Arabic-Bushra-Vol-02.pdf": {
+ "jalalain/Matn-Ar__01-Tafsir-al-Jalalayn-Arabic-Bushra-Vol-02.pdf": {
   "title": "তাফসীরুল জালালাইন - ২য় খণ্ড (বুশরা)",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__01-Tafsir-al-Jalalayn-Arabic-Bushra-Vol-03.pdf": {
+ "jalalain/Matn-Ar__01-Tafsir-al-Jalalayn-Arabic-Bushra-Vol-03.pdf": {
   "title": "তাফসীরুল জালালাইন - ৩য় খণ্ড (বুশরা)",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-01.pdf": {
+ "jalalain/Sharh-Ur__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-01.pdf": {
   "title": "জামালাইন - শরহে জালালাইন (উর্দু) - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-02.pdf": {
+ "jalalain/Sharh-Ur__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-02.pdf": {
   "title": "জামালাইন - শরহে জালালাইন (উর্দু) - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-03.pdf": {
+ "jalalain/Sharh-Ur__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-03.pdf": {
   "title": "জামালাইন - শরহে জালালাইন (উর্দু) - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-04.pdf": {
+ "jalalain/Sharh-Ur__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-04.pdf": {
   "title": "জামালাইন - শরহে জালালাইন (উর্দু) - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-05.pdf": {
+ "jalalain/Sharh-Ur__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-05.pdf": {
   "title": "জামালাইন - শরহে জালালাইন (উর্দু) - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-06.pdf": {
+ "jalalain/Sharh-Ur__01s-Jamalain-Sharh-Jalalain-Urdu-Vol-06.pdf": {
   "title": "জামালাইন - শরহে জালালাইন (উর্দু) - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__02-Al-Hidaya-Sharh-Bidayat-al-Mubtadi-Arabic-Bakdash-7-vols-in-one.pdf": {
+ "jalalain/Matn-Ar__02-Al-Hidaya-Sharh-Bidayat-al-Mubtadi-Arabic-Bakdash-7-vols-in-one.pdf": {
   "title": "আল-হিদায়া শরহু বিদায়াতিল মুবতাদী (৭ খণ্ড একত্রে)",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__03-Ashraful-Hidaya-Urdu-Vol-01.pdf": {
+ "jalalain/Sharh-Ur__03-Ashraful-Hidaya-Urdu-Vol-01.pdf": {
   "title": "আশরাফুল হিদায়া (উর্দু) - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__03-Ashraful-Hidaya-Urdu-Vol-02.pdf": {
+ "jalalain/Sharh-Ur__03-Ashraful-Hidaya-Urdu-Vol-02.pdf": {
   "title": "আশরাফুল হিদায়া (উর্দু) - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__03-Ashraful-Hidaya-Urdu-Vol-04.pdf": {
+ "jalalain/Sharh-Ur__03-Ashraful-Hidaya-Urdu-Vol-04.pdf": {
   "title": "আশরাফুল হিদায়া (উর্দু) - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ur"
  },
- "jalalain/Original__04-Riyadus-Saliheen-Arabic.pdf": {
+ "jalalain/Matn-Ar__04-Riyadus-Saliheen-Arabic.pdf": {
   "title": "রিয়াযুস সালেহীন",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__05-Al-Fawzul-Kabir-Fi-Usul-al-Tafsir-Arabic.pdf": {
+ "jalalain/Matn-Ar__05-Al-Fawzul-Kabir-Fi-Usul-al-Tafsir-Arabic.pdf": {
   "title": "আল-ফাওযুল কাবীর ফী উসূলিত তাফসীর",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__06-Talimul-Mutaallim-Tariq-al-Taallum-Arabic.pdf": {
+ "jalalain/Matn-Ar__06-Talimul-Mutaallim-Tariq-al-Taallum-Arabic.pdf": {
   "title": "তা'লীমুল মুতাআল্লিম তরীকাত তাআল্লুম",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__07-Mukhtasar-al-Maani-Arabic.pdf": {
+ "jalalain/Matn-Ar__07-Mukhtasar-al-Maani-Arabic.pdf": {
   "title": "মুখতাসারুল মাআনী",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__09-al-Sharifiyyah-Sharh-al-Sirajiyyah-Arabic-Jurjani.pdf": {
+ "jalalain/Matn-Ar__09-al-Sharifiyyah-Sharh-al-Sirajiyyah-Arabic-Jurjani.pdf": {
   "title": "আশ-শরীফিয়্যাহ - শরহে সিরাজিয়্যাহ",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__12-Diwan-al-Mutanabbi-Arabic.pdf": {
+ "jalalain/Matn-Ar__12-Diwan-al-Mutanabbi-Arabic.pdf": {
   "title": "দীওয়ানে মুতানাব্বী",
+  "type": "matn",
   "lang": "ar"
  },
- "jalalain/Original__13-Matn-al-Aqidah-al-Tahawiyyah-Arabic.pdf": {
+ "jalalain/Matn-Ar__13-Matn-al-Aqidah-al-Tahawiyyah-Arabic.pdf": {
   "title": "আল-আকীদাতুত তাহাবিয়্যাহ (মতন)",
+  "type": "matn",
   "lang": "ar"
  },
- "mishkat/Bangla__01_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_01_Arabic_Bangla.pdf": {
+ "mishkat/Sharh-Bn__01_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_01_Arabic_Bangla.pdf": {
   "title": "আনওয়ারুল মিশকাত - শরহে মিশকাতুল মাসাবীহ ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__02_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_02_Arabic_Bangla.pdf": {
+ "mishkat/Sharh-Bn__02_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_02_Arabic_Bangla.pdf": {
   "title": "আনওয়ারুল মিশকাত - শরহে মিশকাতুল মাসাবীহ ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__03_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_03_Arabic_Bangla.pdf": {
+ "mishkat/Sharh-Bn__03_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_03_Arabic_Bangla.pdf": {
   "title": "আনওয়ারুল মিশকাত - শরহে মিশকাতুল মাসাবীহ ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__04_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_04_Arabic_Bangla.pdf": {
+ "mishkat/Sharh-Bn__04_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_04_Arabic_Bangla.pdf": {
   "title": "আনওয়ারুল মিশকাত - শরহে মিশকাতুল মাসাবীহ ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__05_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_05_Arabic_Bangla.pdf": {
+ "mishkat/Sharh-Bn__05_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_05_Arabic_Bangla.pdf": {
   "title": "আনওয়ারুল মিশকাত - শরহে মিশকাতুল মাসাবীহ ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__06_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_06_Arabic_Bangla.pdf": {
+ "mishkat/Sharh-Bn__06_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_06_Arabic_Bangla.pdf": {
   "title": "আনওয়ারুল মিশকাত - শরহে মিশকাতুল মাসাবীহ ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__07_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_07_Arabic_Bangla.pdf": {
+ "mishkat/Sharh-Bn__07_Anwarul_Mishkat_Sharhe_Mishkatul_Masabih_Vol_07_Arabic_Bangla.pdf": {
   "title": "আনওয়ারুল মিশকাত - শরহে মিশকাতুল মাসাবীহ ৭ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__08_Aqidatut_Tahawi_Arabic_Bangla.pdf": {
+ "mishkat/Matn-Bn__08_Aqidatut_Tahawi_Arabic_Bangla.pdf": {
   "title": "আকীদাতুত তাহাবী (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "mishkat/Bangla__09_Nurul_Laali_Sharhe_Aqidatut_Tahawi_Bangla.pdf": {
+ "mishkat/Sharh-Bn__09_Nurul_Laali_Sharhe_Aqidatut_Tahawi_Bangla.pdf": {
   "title": "নূরুল লাআলী - শরহে আকীদাতুত তাহাবী",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__10_Proshnottore_Tafsirul_Baydawi_Bangla.pdf": {
+ "mishkat/Sharh-Bn__10_Proshnottore_Tafsirul_Baydawi_Bangla.pdf": {
   "title": "প্রশ্নোত্তরে তাফসীরে বায়যাবী",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__11_Proshnottore_Shohoj_Tafsir_Baydawi_1st_Para_Arabic_Bangla.pdf": {
+ "mishkat/Sharh-Bn__11_Proshnottore_Shohoj_Tafsir_Baydawi_1st_Para_Arabic_Bangla.pdf": {
   "title": "প্রশ্নোত্তরে সহজ তাফসীরে বায়যাবী - ১ম পারা",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__12_Shohoj_Sharhe_Aqaid_Arabic_Bangla_Vol_01.pdf": {
+ "mishkat/Sharh-Bn__12_Shohoj_Sharhe_Aqaid_Arabic_Bangla_Vol_01.pdf": {
   "title": "সহজ শরহে আকাইদ - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__13_Shohoj_Sharhe_Aqaid_Arabic_Bangla_Vol_02.pdf": {
+ "mishkat/Sharh-Bn__13_Shohoj_Sharhe_Aqaid_Arabic_Bangla_Vol_02.pdf": {
   "title": "সহজ শরহে আকাইদ - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__14_Shohoj_Aqidatut_Tahawi_Bangla.pdf": {
+ "mishkat/Sharh-Bn__14_Shohoj_Aqidatut_Tahawi_Bangla.pdf": {
   "title": "সহজ আকীদাতুত তাহাবী",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Bangla__15_Sharhu_Nukhbatil_Fikar_Arabic_Bangla.pdf": {
+ "mishkat/Matn-Bn__15_Sharhu_Nukhbatil_Fikar_Arabic_Bangla.pdf": {
   "title": "শরহু নুখবাতিল ফিকার (আরবি-বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "mishkat/Bangla__16_Islami_Orthonoitir_Adhunik_Rupayon_Bangla.pdf": {
+ "mishkat/Matn-Bn__16_Islami_Orthonoitir_Adhunik_Rupayon_Bangla.pdf": {
   "title": "ইসলামী অর্থনীতির আধুনিক রূপায়ণ",
+  "type": "matn",
   "lang": "bn"
  },
- "mishkat/Bangla__17_Deoband_Andolon_Itihas_Oitihjo_Obodan_Bangla.pdf": {
+ "mishkat/Matn-Bn__17_Deoband_Andolon_Itihas_Oitihjo_Obodan_Bangla.pdf": {
   "title": "দেওবন্দ আন্দোলন: ইতিহাস ঐতিহ্য অবদান",
+  "type": "matn",
   "lang": "bn"
  },
- "mishkat/Bangla__18_Anwarul_Manar_Sharhe_Nurul_Anwar_Vol_02_Bangla.pdf": {
+ "mishkat/Sharh-Bn__18_Anwarul_Manar_Sharhe_Nurul_Anwar_Vol_02_Bangla.pdf": {
   "title": "আনওয়ারুল মানার - শরহে নূরুল আনওয়ার ২য় খণ্ড",
+  "type": "sharh",
   "lang": "bn"
  },
- "mishkat/Original__01_Mishkat_al_Masabih_Arabic_Tabrizi_Albani_Maktab_Islami.pdf": {
+ "mishkat/Matn-Ar__01_Mishkat_al_Masabih_Arabic_Tabrizi_Albani_Maktab_Islami.pdf": {
   "title": "মিশকাতুল মাসাবীহ (আরবি)",
+  "type": "matn",
   "lang": "ar"
  },
- "mishkat/Original__02_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_01.pdf": {
+ "mishkat/Sharh-Ar__02_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_01.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__03_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_02.pdf": {
+ "mishkat/Sharh-Ar__03_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_02.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__04_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_03.pdf": {
+ "mishkat/Sharh-Ar__04_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_03.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__05_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_04.pdf": {
+ "mishkat/Sharh-Ar__05_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_04.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__06_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_05.pdf": {
+ "mishkat/Sharh-Ar__06_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_05.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__07_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_06.pdf": {
+ "mishkat/Sharh-Ar__07_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_06.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__08_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_07.pdf": {
+ "mishkat/Sharh-Ar__08_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_07.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ৭ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__09_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_08.pdf": {
+ "mishkat/Sharh-Ar__09_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_08.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ৮ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__10_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_09.pdf": {
+ "mishkat/Sharh-Ar__10_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_09.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ৯ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__11_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_10.pdf": {
+ "mishkat/Sharh-Ar__11_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_10.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ১০ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__12_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_11.pdf": {
+ "mishkat/Sharh-Ar__12_Mirqat_al_Mafatih_Mulla_Ali_Qari_Vol_11.pdf": {
   "title": "মিরকাতুল মাফাতীহ - মোল্লা আলী কারী ১১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__13_Mirqat_al_Mafatih_Vol_12_al_Ikmal_fi_Asma_al_Rijal.pdf": {
+ "mishkat/Sharh-Ar__13_Mirqat_al_Mafatih_Vol_12_al_Ikmal_fi_Asma_al_Rijal.pdf": {
   "title": "মিরকাতুল মাফাতীহ ১২তম খণ্ড - আল-ইকমাল ফী আসমাইর রিজাল",
+  "type": "sharh",
   "lang": "ar"
  },
- "mishkat/Original__14_Aqidatut_Tahawi_Arabic_Matn_Dar_Ibn_Hazm.pdf": {
+ "mishkat/Matn-Ar__14_Aqidatut_Tahawi_Arabic_Matn_Dar_Ibn_Hazm.pdf": {
   "title": "আল-আকীদাতুত তাহাবিয়্যাহ (মতন)",
+  "type": "matn",
   "lang": "ar"
  },
- "mishkat/Original__15_Aqaid_al_Nasafiyya_Arabic_Matn.pdf": {
+ "mishkat/Matn-Ar__15_Aqaid_al_Nasafiyya_Arabic_Matn.pdf": {
   "title": "আল-আকাইদুন নাসাফিয়্যাহ (মতন)",
+  "type": "matn",
   "lang": "ar"
  },
- "mishkat/Original__16_Sharh_al_Aqaid_al_Nasafiyya_Taftazani_Salama_1974.pdf": {
+ "mishkat/Matn-Ar__16_Sharh_al_Aqaid_al_Nasafiyya_Taftazani_Salama_1974.pdf": {
   "title": "শরহুল আকাইদ আন-নাসাফিয়্যাহ - তাফতাযানী",
+  "type": "matn",
   "lang": "ar"
  },
- "mishkat/Original__17_Nuzhat_al_Nazar_Ibn_Hajar_Nuruddin_Itr_Al_Bushra.pdf": {
+ "mishkat/Matn-Ar__17_Nuzhat_al_Nazar_Ibn_Hajar_Nuruddin_Itr_Al_Bushra.pdf": {
   "title": "নুযহাতুন নযর শরহে নুখবাতিল ফিকার - ইবনে হাজার",
+  "type": "matn",
   "lang": "ar"
  },
- "mishkat/Original__18_Tuhfatud_Durar_Sharh_Nukhbat_al_Fikar_Palanpuri_Urdu.pdf": {
+ "mishkat/Sharh-Ur__18_Tuhfatud_Durar_Sharh_Nukhbat_al_Fikar_Palanpuri_Urdu.pdf": {
   "title": "তুহফাতুদ দুরার - শরহে নুখবাতিল ফিকার (উর্দু)",
+  "type": "sharh",
   "lang": "ur"
  },
- "mishkat/Original__19_Tafsir_al_Baydawi_Anwar_al_Tanzil_Arabic.pdf": {
+ "mishkat/Matn-Ar__19_Tafsir_al_Baydawi_Anwar_al_Tanzil_Arabic.pdf": {
   "title": "তাফসীরে বায়যাবী - আনওয়ারুত তানযীল",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-01.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-01.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-02.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-02.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-03.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-03.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-04.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-04.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-05.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-05.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-06.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-06.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ৬ষ্ঠ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-07.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-07.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ৭ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-08.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-08.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ৮ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-09.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-09.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ৯ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__01-Sahihul-Bukhari-Bangla-IFB-Vol-10.pdf": {
+ "dawra/Matn-Bn__01-Sahihul-Bukhari-Bangla-IFB-Vol-10.pdf": {
   "title": "সহীহ বুখারী (ইফাবা) - ১০ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__02-Sahih-Muslim-Bangla-IFB-Vol-01.pdf": {
+ "dawra/Matn-Bn__02-Sahih-Muslim-Bangla-IFB-Vol-01.pdf": {
   "title": "সহীহ মুসলিম (ইফাবা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__02-Sahih-Muslim-Bangla-IFB-Vol-02.pdf": {
+ "dawra/Matn-Bn__02-Sahih-Muslim-Bangla-IFB-Vol-02.pdf": {
   "title": "সহীহ মুসলিম (ইফাবা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__02-Sahih-Muslim-Bangla-IFB-Vol-03.pdf": {
+ "dawra/Matn-Bn__02-Sahih-Muslim-Bangla-IFB-Vol-03.pdf": {
   "title": "সহীহ মুসলিম (ইফাবা) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__02-Sahih-Muslim-Bangla-IFB-Vol-04.pdf": {
+ "dawra/Matn-Bn__02-Sahih-Muslim-Bangla-IFB-Vol-04.pdf": {
   "title": "সহীহ মুসলিম (ইফাবা) - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__02-Sahih-Muslim-Bangla-IFB-Vol-05.pdf": {
+ "dawra/Matn-Bn__02-Sahih-Muslim-Bangla-IFB-Vol-05.pdf": {
   "title": "সহীহ মুসলিম (ইফাবা) - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__02-Sahih-Muslim-Bangla-IFB-Vol-06.pdf": {
+ "dawra/Matn-Bn__02-Sahih-Muslim-Bangla-IFB-Vol-06.pdf": {
   "title": "সহীহ মুসলিম (ইফাবা) - ৬ষ্ঠ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-01.pdf": {
+ "dawra/Matn-Bn__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-01.pdf": {
   "title": "সুনানে আবু দাউদ (ইফাবা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-02.pdf": {
+ "dawra/Matn-Bn__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-02.pdf": {
   "title": "সুনানে আবু দাউদ (ইফাবা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-03.pdf": {
+ "dawra/Matn-Bn__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-03.pdf": {
   "title": "সুনানে আবু দাউদ (ইফাবা) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-04.pdf": {
+ "dawra/Matn-Bn__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-04.pdf": {
   "title": "সুনানে আবু দাউদ (ইফাবা) - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-05.pdf": {
+ "dawra/Matn-Bn__03-Sunan-Abu-Dawud-Bangla-IFB-Vol-05.pdf": {
   "title": "সুনানে আবু দাউদ (ইফাবা) - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-01.pdf": {
+ "dawra/Matn-Bn__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-01.pdf": {
   "title": "জামে তিরমিযী (ইফাবা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-02.pdf": {
+ "dawra/Matn-Bn__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-02.pdf": {
   "title": "জামে তিরমিযী (ইফাবা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-03.pdf": {
+ "dawra/Matn-Bn__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-03.pdf": {
   "title": "জামে তিরমিযী (ইফাবা) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-04.pdf": {
+ "dawra/Matn-Bn__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-04.pdf": {
   "title": "জামে তিরমিযী (ইফাবা) - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-05.pdf": {
+ "dawra/Matn-Bn__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-05.pdf": {
   "title": "জামে তিরমিযী (ইফাবা) - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-06.pdf": {
+ "dawra/Matn-Bn__04-Jami-at-Tirmidhi-Bangla-IFB-Vol-06.pdf": {
   "title": "জামে তিরমিযী (ইফাবা) - ৬ষ্ঠ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__05-Sunan-Nasai-Bangla-IFB-Vol-01.pdf": {
+ "dawra/Matn-Bn__05-Sunan-Nasai-Bangla-IFB-Vol-01.pdf": {
   "title": "সুনানে নাসাঈ (ইফাবা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__05-Sunan-Nasai-Bangla-IFB-Vol-02.pdf": {
+ "dawra/Matn-Bn__05-Sunan-Nasai-Bangla-IFB-Vol-02.pdf": {
   "title": "সুনানে নাসাঈ (ইফাবা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__05-Sunan-Nasai-Bangla-IFB-Vol-03.pdf": {
+ "dawra/Matn-Bn__05-Sunan-Nasai-Bangla-IFB-Vol-03.pdf": {
   "title": "সুনানে নাসাঈ (ইফাবা) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__05-Sunan-Nasai-Bangla-IFB-Vol-04.pdf": {
+ "dawra/Matn-Bn__05-Sunan-Nasai-Bangla-IFB-Vol-04.pdf": {
   "title": "সুনানে নাসাঈ (ইফাবা) - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__05-Sunan-Nasai-Bangla-IFB-Vol-05.pdf": {
+ "dawra/Matn-Bn__05-Sunan-Nasai-Bangla-IFB-Vol-05.pdf": {
   "title": "সুনানে নাসাঈ (ইফাবা) - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__06-Sunan-Ibn-Majah-Bangla-IFB-Vol-01.pdf": {
+ "dawra/Matn-Bn__06-Sunan-Ibn-Majah-Bangla-IFB-Vol-01.pdf": {
   "title": "সুনানে ইবনে মাজাহ (ইফাবা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__06-Sunan-Ibn-Majah-Bangla-IFB-Vol-02.pdf": {
+ "dawra/Matn-Bn__06-Sunan-Ibn-Majah-Bangla-IFB-Vol-02.pdf": {
   "title": "সুনানে ইবনে মাজাহ (ইফাবা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__06-Sunan-Ibn-Majah-Bangla-IFB-Vol-03.pdf": {
+ "dawra/Matn-Bn__06-Sunan-Ibn-Majah-Bangla-IFB-Vol-03.pdf": {
   "title": "সুনানে ইবনে মাজাহ (ইফাবা) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__07-Sharh-Maani-al-Athar-Tahawi-Bangla-Vol-01.pdf": {
+ "dawra/Matn-Bn__07-Sharh-Maani-al-Athar-Tahawi-Bangla-Vol-01.pdf": {
   "title": "শরহু মাআনিল আসার - ইমাম তহাবী (বাংলা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__07-Sharh-Maani-al-Athar-Tahawi-Bangla-Vol-02.pdf": {
+ "dawra/Matn-Bn__07-Sharh-Maani-al-Athar-Tahawi-Bangla-Vol-02.pdf": {
   "title": "শরহু মাআনিল আসার - ইমাম তহাবী (বাংলা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__08-Muwatta-Imam-Malik-Bangla-IFB-Vol-01.pdf": {
+ "dawra/Matn-Bn__08-Muwatta-Imam-Malik-Bangla-IFB-Vol-01.pdf": {
   "title": "মুয়াত্তা ইমাম মালেক (ইফাবা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Bangla__08-Muwatta-Imam-Malik-Bangla-IFB-Vol-02.pdf": {
+ "dawra/Matn-Bn__08-Muwatta-Imam-Malik-Bangla-IFB-Vol-02.pdf": {
   "title": "মুয়াত্তা ইমাম মালেক (ইফাবা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "dawra/Original__01-Sahih-al-Bukhari-Arabic-Bushra-Hashiya-Saharanpuri-Sindi-Part-01.pdf": {
+ "dawra/Matn-Ar__01-Sahih-al-Bukhari-Arabic-Bushra-Hashiya-Saharanpuri-Sindi-Part-01.pdf": {
   "title": "সহীহ বুখারী (বুশরা, সাহারানপুরী ও সিন্ধীর হাশিয়াসহ) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__01-Sahih-al-Bukhari-Arabic-Bushra-Hashiya-Saharanpuri-Sindi-Part-02.pdf": {
+ "dawra/Matn-Ar__01-Sahih-al-Bukhari-Arabic-Bushra-Hashiya-Saharanpuri-Sindi-Part-02.pdf": {
   "title": "সহীহ বুখারী (বুশরা, সাহারানপুরী ও সিন্ধীর হাশিয়াসহ) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Index.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Index.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - সূচিপত্র",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-00-Intro.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-00-Intro.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - মুকাদ্দিমা",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-01.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-01.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-02.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-02.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-03.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-03.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-04.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-04.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-05.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-05.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-06.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-06.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-07.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-07.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ৭ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-08.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-08.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ৮ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-09.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-09.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ৯ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-10.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-10.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ১০ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-11.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-11.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ১১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-12.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-12.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ১২তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-13.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Fath-al-Bari-Ibn-Hajar-Vol-13.pdf": {
   "title": "ফাতহুল বারী - ইবনে হাজার - ১৩তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-00-Intro.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-00-Intro.pdf": {
   "title": "উমদাতুল কারী - আইনী - মুকাদ্দিমা",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-01.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-01.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-02.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-02.pdf": {
   "title": "উমদাতুল কারী - আইনী - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-04.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-04.pdf": {
   "title": "উমদাতুল কারী - আইনী - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-05.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-05.pdf": {
   "title": "উমদাতুল কারী - আইনী - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-06.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-06.pdf": {
   "title": "উমদাতুল কারী - আইনী - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-07.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-07.pdf": {
   "title": "উমদাতুল কারী - আইনী - ৭ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-08.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-08.pdf": {
   "title": "উমদাতুল কারী - আইনী - ৮ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-09.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-09.pdf": {
   "title": "উমদাতুল কারী - আইনী - ৯ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-10.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-10.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১০ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-11.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-11.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-12.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-12.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১২তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-13.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-13.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১৩তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-14.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-14.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১৪তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-15.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-15.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১৫তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-16.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-16.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১৬তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-17.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-17.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১৭তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-18.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-18.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১৮তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-19.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-19.pdf": {
   "title": "উমদাতুল কারী - আইনী - ১৯তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-20.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-20.pdf": {
   "title": "উমদাতুল কারী - আইনী - ২০তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-21.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-21.pdf": {
   "title": "উমদাতুল কারী - আইনী - ২১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-22.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-22.pdf": {
   "title": "উমদাতুল কারী - আইনী - ২২তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-23.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-23.pdf": {
   "title": "উমদাতুল কারী - আইনী - ২৩তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-24.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-24.pdf": {
   "title": "উমদাতুল কারী - আইনী - ২৪তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__01-Sharh-Umdat-al-Qari-Ayni-Vol-25.pdf": {
+ "dawra/Sharh-Ar__01-Sharh-Umdat-al-Qari-Ayni-Vol-25.pdf": {
   "title": "উমদাতুল কারী - আইনী - ২৫তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sahih-Muslim-Arabic-Bushra-Nawawi-Sindhi-Fathul-Mulhim-Part-01.pdf": {
+ "dawra/Matn-Ar__02-Sahih-Muslim-Arabic-Bushra-Nawawi-Sindhi-Fathul-Mulhim-Part-01.pdf": {
   "title": "সহীহ মুসলিম (বুশরা, নববী-সিন্ধী-ফাতহুল মুলহিম হাশিয়াসহ) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__02-Sahih-Muslim-Arabic-Bushra-Nawawi-Sindhi-Fathul-Mulhim-Part-02.pdf": {
+ "dawra/Matn-Ar__02-Sahih-Muslim-Arabic-Bushra-Nawawi-Sindhi-Fathul-Mulhim-Part-02.pdf": {
   "title": "সহীহ মুসলিম (বুশরা, নববী-সিন্ধী-ফাতহুল মুলহিম হাশিয়াসহ) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-01.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-01.pdf": {
   "title": "ফাতহুল মুলহিম - শাব্বীর আহমদ উসমানী - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-02.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-02.pdf": {
   "title": "ফাতহুল মুলহিম - শাব্বীর আহমদ উসমানী - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-03.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-03.pdf": {
   "title": "ফাতহুল মুলহিম - শাব্বীর আহমদ উসমানী - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-04.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-04.pdf": {
   "title": "ফাতহুল মুলহিম - শাব্বীর আহমদ উসমানী - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-05.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-05.pdf": {
   "title": "ফাতহুল মুলহিম - শাব্বীর আহমদ উসমানী - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-06.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Fath-al-Mulhim-Shabbir-Uthmani-Vol-06.pdf": {
   "title": "ফাতহুল মুলহিম - শাব্বীর আহমদ উসমানী - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-01.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-01.pdf": {
   "title": "তাকমিলাতু ফাতহিল মুলহিম - তাকী উসমানী - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-02.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-02.pdf": {
   "title": "তাকমিলাতু ফাতহিল মুলহিম - তাকী উসমানী - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-03.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-03.pdf": {
   "title": "তাকমিলাতু ফাতহিল মুলহিম - তাকী উসমানী - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-04.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-04.pdf": {
   "title": "তাকমিলাতু ফাতহিল মুলহিম - তাকী উসমানী - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-05.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-05.pdf": {
   "title": "তাকমিলাতু ফাতহিল মুলহিম - তাকী উসমানী - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-06.pdf": {
+ "dawra/Sharh-Ar__02-Sharh-Takmilat-Fath-al-Mulhim-Taqi-Usmani-Vol-06.pdf": {
   "title": "তাকমিলাতু ফাতহিল মুলহিম - তাকী উসমানী - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-01.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-01.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-02.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-02.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-03.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-03.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-04.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-04.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-05.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-05.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-06.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-06.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-07.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-07.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ৭ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-08.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-08.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ৮ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-09.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-09.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ৯ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-10.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-10.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ১০ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-11.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-11.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ১১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-12.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-12.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ১২তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-13.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-13.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ১৩তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-14.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Awn-al-Mabud-Azimabadi-Vol-14.pdf": {
   "title": "আউনুল মা'বূদ - আযীমাবাদী - ১৪তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-01.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-01.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-02.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-02.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-03.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-03.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-04.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-04.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-05.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-05.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-06.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-06.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-07.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-07.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ৭ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-08.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-08.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ৮ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-09.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-09.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ৯ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-10.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-10.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ১০ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-11.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-11.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ১১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-12.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-12.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ১২তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-13.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-13.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ১৩তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-14.pdf": {
+ "dawra/Sharh-Ar__03-Sharh-Badhl-al-Majhud-Saharanpuri-Vol-14.pdf": {
   "title": "বাযলুল মাজহূদ - সাহারানপুরী - ১৪তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Maarif-al-Sunan-Banuri-Vol-00-Intro.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Maarif-al-Sunan-Banuri-Vol-00-Intro.pdf": {
   "title": "মাআরিফুস সুনান - বিন্নূরী - মুকাদ্দিমা",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Maarif-al-Sunan-Banuri-Vol-01.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Maarif-al-Sunan-Banuri-Vol-01.pdf": {
   "title": "মাআরিফুস সুনান - বিন্নূরী - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Maarif-al-Sunan-Banuri-Vol-02.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Maarif-al-Sunan-Banuri-Vol-02.pdf": {
   "title": "মাআরিফুস সুনান - বিন্নূরী - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Maarif-al-Sunan-Banuri-Vol-03.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Maarif-al-Sunan-Banuri-Vol-03.pdf": {
   "title": "মাআরিফুস সুনান - বিন্নূরী - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Maarif-al-Sunan-Banuri-Vol-04.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Maarif-al-Sunan-Banuri-Vol-04.pdf": {
   "title": "মাআরিফুস সুনান - বিন্নূরী - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Maarif-al-Sunan-Banuri-Vol-05.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Maarif-al-Sunan-Banuri-Vol-05.pdf": {
   "title": "মাআরিফুস সুনান - বিন্নূরী - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Maarif-al-Sunan-Banuri-Vol-06.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Maarif-al-Sunan-Banuri-Vol-06.pdf": {
   "title": "মাআরিফুস সুনান - বিন্নূরী - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-00-Intro.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-00-Intro.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - মুকাদ্দিমা",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-00-Muqaddima-1.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-00-Muqaddima-1.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - মুকাদ্দিমা ১",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-00-Muqaddima-2.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-00-Muqaddima-2.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - মুকাদ্দিমা ২",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-01.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-01.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-02.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-02.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-03.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-03.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-04.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-04.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-05.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-05.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-06.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-06.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-07.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-07.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ৭ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-08.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-08.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ৮ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-09.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-09.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ৯ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-10.pdf": {
+ "dawra/Sharh-Ar__04-Sharh-Tuhfatul-Ahwadhi-Mubarakpuri-Vol-10.pdf": {
   "title": "তুহফাতুল আহওয়াযী - মুবারকপুরী - ১০ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-00-Intro.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-00-Intro.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - মুকাদ্দিমা",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-01.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-01.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-02.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-02.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-03.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-03.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-04.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-04.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-05.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-05.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৫ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-06.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-06.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৬ষ্ঠ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-07.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-07.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৭ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-08.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-08.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৮ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-09.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-09.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৯ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-10.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-10.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১০ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-11.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-11.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-12.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-12.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১২তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-13.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-13.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১৩তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-14.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-14.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১৪তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-15.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-15.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১৫তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-16.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-16.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১৬তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-17.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-17.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১৭তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-18.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-18.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১৮তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-19.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-19.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ১৯তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-20.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-20.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২০তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-21.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-21.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-22.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-22.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২২তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-23.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-23.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২৩তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-24.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-24.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২৪তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-25.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-25.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২৫তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-26.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-26.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২৬তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-27.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-27.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২৭তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-28.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-28.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২৮তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-29.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-29.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ২৯তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-30.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-30.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩০তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-31.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-31.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩১তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-32.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-32.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩২তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-33.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-33.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩৩তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-34.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-34.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩৪তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-35.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-35.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩৫তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-36.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-36.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩৬তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-37.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-37.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩৭তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-38.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-38.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩৮তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-39.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-39.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৩৯তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-40.pdf": {
+ "dawra/Sharh-Ar__05-Sharh-Zakhira-al-Uqba-Nasai-Vol-40.pdf": {
   "title": "যাখীরাতুল উকবা - শরহে নাসাঈ - ৪০তম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-00-Cover.pdf": {
+ "dawra/Matn-Ar__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-00-Cover.pdf": {
   "title": "সুনানে ইবনে মাজাহ - সিন্ধীর শরাহসহ - প্রচ্ছদ",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-01-Muqaddima.pdf": {
+ "dawra/Matn-Ar__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-01-Muqaddima.pdf": {
   "title": "সুনানে ইবনে মাজাহ - সিন্ধীর শরাহসহ - ১ম খণ্ড (মুকাদ্দিমা)",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-01.pdf": {
+ "dawra/Matn-Ar__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-01.pdf": {
   "title": "সুনানে ইবনে মাজাহ - সিন্ধীর শরাহসহ - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-02.pdf": {
+ "dawra/Matn-Ar__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-02.pdf": {
   "title": "সুনানে ইবনে মাজাহ - সিন্ধীর শরাহসহ - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-03.pdf": {
+ "dawra/Matn-Ar__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-03.pdf": {
   "title": "সুনানে ইবনে মাজাহ - সিন্ধীর শরাহসহ - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-04.pdf": {
+ "dawra/Matn-Ar__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-04.pdf": {
   "title": "সুনানে ইবনে মাজাহ - সিন্ধীর শরাহসহ - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-05-Indexes.pdf": {
+ "dawra/Matn-Ar__06-Sunan-Ibn-Majah-Arabic-Sharh-Sindi-Vol-05-Indexes.pdf": {
   "title": "সুনানে ইবনে মাজাহ - সিন্ধীর শরাহসহ - ৫ম খণ্ড (সূচিপত্র)",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-00-Intro.pdf": {
+ "dawra/Matn-Ar__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-00-Intro.pdf": {
   "title": "শরহু মাআনিল আসার - তহাবী - মুকাদ্দিমা",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-01.pdf": {
+ "dawra/Matn-Ar__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-01.pdf": {
   "title": "শরহু মাআনিল আসার - তহাবী - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-02.pdf": {
+ "dawra/Matn-Ar__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-02.pdf": {
   "title": "শরহু মাআনিল আসার - তহাবী - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-03.pdf": {
+ "dawra/Matn-Ar__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-03.pdf": {
   "title": "শরহু মাআনিল আসার - তহাবী - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-04.pdf": {
+ "dawra/Matn-Ar__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-04.pdf": {
   "title": "শরহু মাআনিল আসার - তহাবী - ৪র্থ খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-05.pdf": {
+ "dawra/Matn-Ar__07-Sharh-Maani-al-Athar-Arabic-Alam-al-Kutub-Vol-05.pdf": {
   "title": "শরহু মাআনিল আসার - তহাবী - ৫ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__08-Sharh-Zarqani-Muwatta-Malik-Vol-01.pdf": {
+ "dawra/Sharh-Ar__08-Sharh-Zarqani-Muwatta-Malik-Vol-01.pdf": {
   "title": "শরহুয যুরকানী আলাল মুয়াত্তা - ১ম খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__08-Sharh-Zarqani-Muwatta-Malik-Vol-02.pdf": {
+ "dawra/Sharh-Ar__08-Sharh-Zarqani-Muwatta-Malik-Vol-02.pdf": {
   "title": "শরহুয যুরকানী আলাল মুয়াত্তা - ২য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__08-Sharh-Zarqani-Muwatta-Malik-Vol-03.pdf": {
+ "dawra/Sharh-Ar__08-Sharh-Zarqani-Muwatta-Malik-Vol-03.pdf": {
   "title": "শরহুয যুরকানী আলাল মুয়াত্তা - ৩য় খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__08-Sharh-Zarqani-Muwatta-Malik-Vol-04.pdf": {
+ "dawra/Sharh-Ar__08-Sharh-Zarqani-Muwatta-Malik-Vol-04.pdf": {
   "title": "শরহুয যুরকানী আলাল মুয়াত্তা - ৪র্থ খণ্ড",
+  "type": "sharh",
   "lang": "ar"
  },
- "dawra/Original__09-Muwatta-Muhammad-Arabic-Taliq-al-Mumajjad-Laknawi-Vol-01.pdf": {
+ "dawra/Matn-Ar__09-Muwatta-Muhammad-Arabic-Taliq-al-Mumajjad-Laknawi-Vol-01.pdf": {
   "title": "মুয়াত্তা ইমাম মুহাম্মদ - আত-তা'লীকুল মুমাজ্জাদ (লাখনৌভী) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__09-Muwatta-Muhammad-Arabic-Taliq-al-Mumajjad-Laknawi-Vol-02.pdf": {
+ "dawra/Matn-Ar__09-Muwatta-Muhammad-Arabic-Taliq-al-Mumajjad-Laknawi-Vol-02.pdf": {
   "title": "মুয়াত্তা ইমাম মুহাম্মদ - আত-তা'লীকুল মুমাজ্জাদ (লাখনৌভী) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "dawra/Original__09-Muwatta-Muhammad-Arabic-Taliq-al-Mumajjad-Laknawi-Vol-03.pdf": {
+ "dawra/Matn-Ar__09-Muwatta-Muhammad-Arabic-Taliq-al-Mumajjad-Laknawi-Vol-03.pdf": {
   "title": "মুয়াত্তা ইমাম মুহাম্মদ - আত-তা'লীকুল মুমাজ্জাদ (লাখনৌভী) - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__01_Fatawa-Hindiyya_Alamgiri.pdf": {
+ "takhassus-ifta/Matn-Ar__01_Fatawa-Hindiyya_Alamgiri.pdf": {
   "title": "ফাতাওয়া হিন্দিয়া (আলমগীরী)",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__02_Radd-al-Muhtar_Ibn-Abidin.pdf": {
+ "takhassus-ifta/Matn-Ar__02_Radd-al-Muhtar_Ibn-Abidin.pdf": {
   "title": "রদ্দুল মুহতার (ফাতাওয়া শামী) - ইবনে আবেদীন",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__03_Fath-al-Qadir_Ibn-al-Humam.pdf": {
+ "takhassus-ifta/Matn-Ar__03_Fath-al-Qadir_Ibn-al-Humam.pdf": {
   "title": "ফাতহুল কাদীর - ইবনুল হুমাম",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__04_Badai-al-Sanai_Kasani.pdf": {
+ "takhassus-ifta/Matn-Ar__04_Badai-al-Sanai_Kasani.pdf": {
   "title": "বাদায়েউস সানায়ে - কাসানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__05_al-Bahr-al-Raiq_Ibn-Nujaym.pdf": {
+ "takhassus-ifta/Matn-Ar__05_al-Bahr-al-Raiq_Ibn-Nujaym.pdf": {
   "title": "আল-বাহরুর রায়েক - ইবনে নুজাইম",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__06_al-Hidaya_Marghinani_Bakdash.pdf": {
+ "takhassus-ifta/Matn-Ar__06_al-Hidaya_Marghinani_Bakdash.pdf": {
   "title": "আল-হিদায়া - মারগীনানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__07_Usul-al-Ifta-wa-Adabuh_Taqi-Usmani.pdf": {
+ "takhassus-ifta/Matn-Ar__07_Usul-al-Ifta-wa-Adabuh_Taqi-Usmani.pdf": {
   "title": "উসূলুল ইফতা ওয়া আদাবুহু - তাকী উসমানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__08_Adab-al-Mufti-wal-Mustafti_Ibn-al-Salah.pdf": {
+ "takhassus-ifta/Matn-Ar__08_Adab-al-Mufti-wal-Mustafti_Ibn-al-Salah.pdf": {
   "title": "আদাবুল মুফতী ওয়াল মুসতাফতী - ইবনুস সালাহ",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__09_Usul-al-Shashi_Bushra.pdf": {
+ "takhassus-ifta/Matn-Ar__09_Usul-al-Shashi_Bushra.pdf": {
   "title": "উসূলুশ শাশী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-ifta/Original__10_Sharh-al-Qawaid-al-Fiqhiyya_Zarqa.pdf": {
+ "takhassus-ifta/Matn-Ar__10_Sharh-al-Qawaid-al-Fiqhiyya_Zarqa.pdf": {
   "title": "শরহুল কাওয়াইদিল ফিকহিয়্যাহ - যারকা",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H01_Muqaddimat-Ibn-al-Salah_Itr.pdf": {
+ "takhassus-hadith/Matn-Ar__H01_Muqaddimat-Ibn-al-Salah_Itr.pdf": {
   "title": "মুকাদ্দিমাতু ইবনিস সালাহ",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H02_Tadrib-al-Rawi_Suyuti_Awwama.pdf": {
+ "takhassus-hadith/Matn-Ar__H02_Tadrib-al-Rawi_Suyuti_Awwama.pdf": {
   "title": "তাদরীবুর রাবী - সুয়ূতী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H03_Nuzhat-al-Nazar_Ibn-Hajar_Itr.pdf": {
+ "takhassus-hadith/Matn-Ar__H03_Nuzhat-al-Nazar_Ibn-Hajar_Itr.pdf": {
   "title": "নুযহাতুন নযর - ইবনে হাজার",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H04_Sharh-Ilal-al-Tirmidhi_Ibn-Rajab.pdf": {
+ "takhassus-hadith/Matn-Ar__H04_Sharh-Ilal-al-Tirmidhi_Ibn-Rajab.pdf": {
   "title": "শরহু ইলালিত তিরমিযী - ইবনে রজব",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H05_al-Jarh-wal-Tadil_Ibn-Abi-Hatim.pdf": {
+ "takhassus-hadith/Matn-Ar__H05_al-Jarh-wal-Tadil_Ibn-Abi-Hatim.pdf": {
   "title": "আল-জারহু ওয়াত তা'দীল - ইবনে আবী হাতেম",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H06_Tahdhib-al-Kamal_Mizzi.pdf": {
+ "takhassus-hadith/Matn-Ar__H06_Tahdhib-al-Kamal_Mizzi.pdf": {
   "title": "তাহযীবুল কামাল - মিযযী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H07_Mizan-al-Itidal_Dhahabi.pdf": {
+ "takhassus-hadith/Matn-Ar__H07_Mizan-al-Itidal_Dhahabi.pdf": {
   "title": "মীযানুল ই'তিদাল - যাহাবী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H08_al-Isaba_Ibn-Hajar.pdf": {
+ "takhassus-hadith/Matn-Ar__H08_al-Isaba_Ibn-Hajar.pdf": {
   "title": "আল-ইসাবা ফী তাময়ীযিস সাহাবা - ইবনে হাজার",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H09_Fath-al-Mughith_Sakhawi.pdf": {
+ "takhassus-hadith/Matn-Ar__H09_Fath-al-Mughith_Sakhawi.pdf": {
   "title": "ফাতহুল মুগীস - সাখাবী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-hadith/Original__H10_al-Kifaya_Khatib-Baghdadi.pdf": {
+ "takhassus-hadith/Matn-Ar__H10_al-Kifaya_Khatib-Baghdadi.pdf": {
   "title": "আল-কিফায়া ফী ইলমির রিওয়ায়া - খতীব বাগদাদী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Bangla__TB03_Tafsir-Ibn-Kathir_Bangla_IFA.pdf": {
+ "takhassus-tafsir/Matn-Bn__TB03_Tafsir-Ibn-Kathir_Bangla_IFA.pdf": {
   "title": "তাফসীরে ইবনে কাসীর (ইফাবা বাংলা)",
+  "type": "matn",
   "lang": "bn"
  },
- "takhassus-tafsir/Original__T01_Tafsir-al-Tabari_Turki.pdf": {
+ "takhassus-tafsir/Matn-Ar__T01_Tafsir-al-Tabari_Turki.pdf": {
   "title": "তাফসীরে তাবারী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T02_Tafsir-al-Qurtubi_Turki.pdf": {
+ "takhassus-tafsir/Matn-Ar__T02_Tafsir-al-Qurtubi_Turki.pdf": {
   "title": "তাফসীরে কুরতুবী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T03_Tafsir-Ibn-Kathir_Tayba.pdf": {
+ "takhassus-tafsir/Matn-Ar__T03_Tafsir-Ibn-Kathir_Tayba.pdf": {
   "title": "তাফসীরে ইবনে কাসীর",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T04_Tafsir-al-Baydawi.pdf": {
+ "takhassus-tafsir/Matn-Ar__T04_Tafsir-al-Baydawi.pdf": {
   "title": "তাফসীরে বায়যাবী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T05_Ruh-al-Maani_Alusi.pdf": {
+ "takhassus-tafsir/Matn-Ar__T05_Ruh-al-Maani_Alusi.pdf": {
   "title": "রূহুল মাআনী - আলূসী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T06_al-Itqan_Suyuti.pdf": {
+ "takhassus-tafsir/Matn-Ar__T06_al-Itqan_Suyuti.pdf": {
   "title": "আল-ইতকান ফী উলূমিল কুরআন - সুয়ূতী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T07_al-Burhan_Zarkashi.pdf": {
+ "takhassus-tafsir/Matn-Ar__T07_al-Burhan_Zarkashi.pdf": {
   "title": "আল-বুরহান ফী উলূমিল কুরআন - যারকাশী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T08_Mabahith-fi-Ulum-al-Quran_Qattan.pdf": {
+ "takhassus-tafsir/Matn-Ar__T08_Mabahith-fi-Ulum-al-Quran_Qattan.pdf": {
   "title": "মাবাহিস ফী উলূমিল কুরআন - মান্না আল-কাত্তান",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T09_Asbab-al-Nuzul_Wahidi.pdf": {
+ "takhassus-tafsir/Matn-Ar__T09_Asbab-al-Nuzul_Wahidi.pdf": {
   "title": "আসবাবুন নুযূল - ওয়াহিদী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-tafsir/Original__T10_al-Nasikh-wal-Mansukh_Nahhas.pdf": {
+ "takhassus-tafsir/Matn-Ar__T10_al-Nasikh-wal-Mansukh_Nahhas.pdf": {
   "title": "আন-নাসিখ ওয়াল মানসূখ - নাহহাস",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__02_Radd-al-Muhtar_Ibn-Abidin.pdf": {
+ "takhassus-fiqh/Matn-Ar__02_Radd-al-Muhtar_Ibn-Abidin.pdf": {
   "title": "রদ্দুল মুহতার (ফাতাওয়া শামী) - ইবনে আবেদীন",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__03_Fath-al-Qadir_Ibn-al-Humam.pdf": {
+ "takhassus-fiqh/Matn-Ar__03_Fath-al-Qadir_Ibn-al-Humam.pdf": {
   "title": "ফাতহুল কাদীর - ইবনুল হুমাম",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__04_Badai-al-Sanai_Kasani.pdf": {
+ "takhassus-fiqh/Matn-Ar__04_Badai-al-Sanai_Kasani.pdf": {
   "title": "বাদায়েউস সানায়ে - কাসানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__06_al-Hidaya_Marghinani_Bakdash.pdf": {
+ "takhassus-fiqh/Matn-Ar__06_al-Hidaya_Marghinani_Bakdash.pdf": {
   "title": "আল-হিদায়া - মারগীনানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__09_Usul-al-Shashi_Bushra.pdf": {
+ "takhassus-fiqh/Matn-Ar__09_Usul-al-Shashi_Bushra.pdf": {
   "title": "উসূলুশ শাশী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__F01_al-Mabsut_Sarakhsi.pdf": {
+ "takhassus-fiqh/Matn-Ar__F01_al-Mabsut_Sarakhsi.pdf": {
   "title": "আল-মাবসূত - সারাখসী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__F06_al-Ashbah-wal-Nazair_Ibn-Nujaym.pdf": {
+ "takhassus-fiqh/Matn-Ar__F06_al-Ashbah-wal-Nazair_Ibn-Nujaym.pdf": {
   "title": "আল-আশবাহ ওয়ান নাযায়ের - ইবনে নুজাইম",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__F07_Majallat-al-Ahkam-al-Adliyya.pdf": {
+ "takhassus-fiqh/Matn-Ar__F07_Majallat-al-Ahkam-al-Adliyya.pdf": {
   "title": "মাজাল্লাতুল আহকামিল আদলিয়্যাহ",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__F09_Sharh-al-Talwih-ala-al-Tawdih_Taftazani.pdf": {
+ "takhassus-fiqh/Matn-Ar__F09_Sharh-al-Talwih-ala-al-Tawdih_Taftazani.pdf": {
   "title": "শরহুত তালবীহ আলাত তাওযীহ - তাফতাযানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-fiqh/Original__F10_al-Furuq_Qarafi.pdf": {
+ "takhassus-fiqh/Matn-Ar__F10_al-Furuq_Qarafi.pdf": {
   "title": "আল-ফুরূক - কারাফী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A01_Diwan-al-Mutanabbi_Azzam.pdf": {
+ "takhassus-adab/Matn-Ar__A01_Diwan-al-Mutanabbi_Azzam.pdf": {
   "title": "দীওয়ানে মুতানাব্বী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A02_Maqamat-al-Hariri.pdf": {
+ "takhassus-adab/Matn-Ar__A02_Maqamat-al-Hariri.pdf": {
   "title": "মাকামাতে হারীরী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A03_al-Kamil_Mubarrad.pdf": {
+ "takhassus-adab/Matn-Ar__A03_al-Kamil_Mubarrad.pdf": {
   "title": "আল-কামিল - মুবাররাদ",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A04_al-Bayan-wal-Tabyin_Jahiz_Harun.pdf": {
+ "takhassus-adab/Matn-Ar__A04_al-Bayan-wal-Tabyin_Jahiz_Harun.pdf": {
   "title": "আল-বায়ান ওয়াত তাবয়ীন - জাহিয",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A05_Adab-al-Katib_Ibn-Qutayba.pdf": {
+ "takhassus-adab/Matn-Ar__A05_Adab-al-Katib_Ibn-Qutayba.pdf": {
   "title": "আদাবুল কাতিব - ইবনে কুতাইবা",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A06_Asas-al-Balagha_Zamakhshari.pdf": {
+ "takhassus-adab/Matn-Ar__A06_Asas-al-Balagha_Zamakhshari.pdf": {
   "title": "আসাসুল বালাগা - যামাখশারী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A07_Mughni-al-Labib_Ibn-Hisham.pdf": {
+ "takhassus-adab/Matn-Ar__A07_Mughni-al-Labib_Ibn-Hisham.pdf": {
   "title": "মুগনিল লাবীব - ইবনে হিশাম",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A08_al-Khasais_Ibn-Jinni_vol1.pdf": {
+ "takhassus-adab/Matn-Ar__A08_al-Khasais_Ibn-Jinni_vol1.pdf": {
   "title": "আল-খাসায়েস - ইবনে জিন্নী - ১ম খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A08_al-Khasais_Ibn-Jinni_vol2.pdf": {
+ "takhassus-adab/Matn-Ar__A08_al-Khasais_Ibn-Jinni_vol2.pdf": {
   "title": "আল-খাসায়েস - ইবনে জিন্নী - ২য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A08_al-Khasais_Ibn-Jinni_vol3.pdf": {
+ "takhassus-adab/Matn-Ar__A08_al-Khasais_Ibn-Jinni_vol3.pdf": {
   "title": "আল-খাসায়েস - ইবনে জিন্নী - ৩য় খণ্ড",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A09_Dalail-al-Ijaz_Jurjani.pdf": {
+ "takhassus-adab/Matn-Ar__A09_Dalail-al-Ijaz_Jurjani.pdf": {
   "title": "দালাইলুল ই'জায - জুরজানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-adab/Original__A10_Asrar-al-Balagha_Jurjani_Shakir.pdf": {
+ "takhassus-adab/Matn-Ar__A10_Asrar-al-Balagha_Jurjani_Shakir.pdf": {
   "title": "আসরারুল বালাগা - জুরজানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-qiraat/Original__Q01_Matn-al-Shatibiyya_Hirz-al-Amani.pdf": {
+ "takhassus-qiraat/Matn-Ar__Q01_Matn-al-Shatibiyya_Hirz-al-Amani.pdf": {
   "title": "মতনুশ শাতিবিয়্যাহ (হিরযুল আমানী)",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-qiraat/Original__Q02_Tayyibat-al-Nashr_Ibn-al-Jazari.pdf": {
+ "takhassus-qiraat/Matn-Ar__Q02_Tayyibat-al-Nashr_Ibn-al-Jazari.pdf": {
   "title": "তাইয়িবাতুন নাশর - ইবনুল জাযারী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-qiraat/Original__Q03_al-Nashr-fil-Qiraat-al-Ashr_Majma.pdf": {
+ "takhassus-qiraat/Matn-Ar__Q03_al-Nashr-fil-Qiraat-al-Ashr_Majma.pdf": {
   "title": "আন-নাশর ফিল কিরাআতিল আশর - ইবনুল জাযারী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-qiraat/Original__Q05_al-Muqaddima-al-Jazariyya.pdf": {
+ "takhassus-qiraat/Matn-Ar__Q05_al-Muqaddima-al-Jazariyya.pdf": {
   "title": "আল-মুকাদ্দিমাতুল জাযারিয়্যাহ",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-qiraat/Original__T06_al-Itqan_Suyuti.pdf": {
+ "takhassus-qiraat/Matn-Ar__T06_al-Itqan_Suyuti.pdf": {
   "title": "আল-ইতকান ফী উলূমিল কুরআন - সুয়ূতী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-dawah/Bangla__DB04_Hujjatullah-Bangla_Akhtar-Faruq_kh1.pdf": {
+ "takhassus-dawah/Matn-Bn__DB04_Hujjatullah-Bangla_Akhtar-Faruq_kh1.pdf": {
   "title": "হুজ্জাতুল্লাহিল বালিগাহ (বাংলা) - ১ম খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "takhassus-dawah/Bangla__DB04_Hujjatullah-Bangla_Akhtar-Faruq_kh2.pdf": {
+ "takhassus-dawah/Matn-Bn__DB04_Hujjatullah-Bangla_Akhtar-Faruq_kh2.pdf": {
   "title": "হুজ্জাতুল্লাহিল বালিগাহ (বাংলা) - ২য় খণ্ড",
+  "type": "matn",
   "lang": "bn"
  },
- "takhassus-dawah/Bangla__DB05_Ihya-Bangla_Muhiuddin-Khan.pdf": {
+ "takhassus-dawah/Matn-Bn__DB05_Ihya-Bangla_Muhiuddin-Khan.pdf": {
   "title": "এহইয়াউ উলূমিদ্দীন (বাংলা) - মুহিউদ্দীন খান",
+  "type": "matn",
   "lang": "bn"
  },
- "takhassus-dawah/Original__D01_al-Farq-bayn-al-Firaq_Baghdadi.pdf": {
+ "takhassus-dawah/Matn-Ar__D01_al-Farq-bayn-al-Firaq_Baghdadi.pdf": {
   "title": "আল-ফারকু বাইনাল ফিরাক - বাগদাদী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-dawah/Original__D02_al-Milal-wal-Nihal_Shahrastani_Badran.pdf": {
+ "takhassus-dawah/Matn-Ar__D02_al-Milal-wal-Nihal_Shahrastani_Badran.pdf": {
   "title": "আল-মিলাল ওয়ান নিহাল - শাহরাস্তানী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-dawah/Original__D03_al-Fisal_Ibn-Hazm.pdf": {
+ "takhassus-dawah/Matn-Ar__D03_al-Fisal_Ibn-Hazm.pdf": {
   "title": "আল-ফিসাল ফিল মিলাল - ইবনে হাযম",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-dawah/Original__D04_Hujjat-Allah-al-Baligha_Palanpuri.pdf": {
+ "takhassus-dawah/Matn-Ar__D04_Hujjat-Allah-al-Baligha_Palanpuri.pdf": {
   "title": "হুজ্জাতুল্লাহিল বালিগাহ - শাহ ওয়ালিউল্লাহ",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-dawah/Original__D05_Ihya-Ulum-al-Din_Ghazali_Minhaj.pdf": {
+ "takhassus-dawah/Matn-Ar__D05_Ihya-Ulum-al-Din_Ghazali_Minhaj.pdf": {
   "title": "ইহয়াউ উলূমিদ্দীন - ইমাম গাযালী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-dawah/Original__D06_Usul-al-Dawah_Abd-al-Karim-Zaydan.pdf": {
+ "takhassus-dawah/Matn-Ar__D06_Usul-al-Dawah_Abd-al-Karim-Zaydan.pdf": {
   "title": "উসূলুদ দাওয়াহ - আব্দুল কারীম যাইদান",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-dawah/Original__D07_Maqalat-al-Islamiyyin_Ashari.pdf": {
+ "takhassus-dawah/Matn-Ar__D07_Maqalat-al-Islamiyyin_Ashari.pdf": {
   "title": "মাকালাতুল ইসলামিয়্যীন - আশআরী",
+  "type": "matn",
   "lang": "ar"
  },
- "takhassus-dawah/Original__D08_Sharh-al-Aqida-al-Tahawiyya_Maydani-Hanafi.pdf": {
+ "takhassus-dawah/Matn-Ar__D08_Sharh-al-Aqida-al-Tahawiyya_Maydani-Hanafi.pdf": {
   "title": "শরহুল আকীদাতিত তাহাবিয়্যাহ - মাইদানী",
+  "type": "matn",
   "lang": "ar"
  }
 }

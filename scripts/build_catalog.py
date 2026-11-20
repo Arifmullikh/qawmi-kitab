@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 REPO = os.environ.get("GITHUB_REPOSITORY", "Arifmullikh/qawmi-kitab")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PREFIX = re.compile(r"^(?P<type>Matn|Sharh)-(?P<lang>Ar|Ur|Fa|Bn)__", re.I)
 PART = re.compile(r"^(?P<base>.+?)_part(?P<n>\d+)of(?P<m>\d+)\.pdf$", re.I)
 
 def api(url):
@@ -24,7 +25,7 @@ def all_releases():
     return out
 
 def pretty(name):
-    s = re.sub(r"^(Bangla|Original)__", "", name); s = re.sub(r"\.pdf$", "", s, flags=re.I)
+    s = re.sub(r"^(Matn|Sharh)-(Ar|Ur|Fa|Bn)__|^(Bangla|Original)__", "", name, flags=re.I); s = re.sub(r"\.pdf$", "", s, flags=re.I)
     s = re.sub(r"^[0-9]+[a-z]?[-_]", "", s); return re.sub(r"[-_]+", " ", s).strip()
 
 def main():
@@ -42,19 +43,21 @@ def main():
             if a.get("state") != "uploaded" or not a["name"].lower().endswith(".pdf"): continue
             n = a["name"]; m = PART.match(n)
             base = (m.group("base") + ".pdf") if m else n
-            section = "bangla" if n.startswith("Bangla__") else "original"
             meta = names.get(f'{j["tag"]}/{n}') or names.get(f'{j["tag"]}/{base}') or {}
-            b = books.setdefault(base, {"id": f'{j["tag"]}/{base}', "section": section,
+            pm = PREFIX.match(n)
+            typ = meta.get("type") or (pm.group("type").lower() if pm else "matn")
+            lang = meta.get("lang") or (pm.group("lang").lower() if pm else None)
+            b = books.setdefault(base, {"id": f'{j["tag"]}/{base}', "type": typ,
                                         "title": meta.get("title") or pretty(base),
-                                        "lang": meta.get("lang") or ("bn" if section == "bangla" else None),
-                                        "size": 0, "parts": []})
+                                        "lang": lang, "size": 0, "parts": []})
             b["parts"].append({"name": n, "part": int(m.group("n")) if m else 1, "size": a["size"],
                                "url": a["browser_download_url"], "updated_at": a["updated_at"]})
             b["size"] += a["size"]; total_files += 1; total_size += a["size"]
-        bl = sorted(books.values(), key=lambda b: (b["section"] != "bangla", b["id"]))
+        bl = sorted(books.values(), key=lambda b: (b["type"] != "matn", b["id"]))
         for b in bl: b["parts"].sort(key=lambda p: p["part"])
-        out_j.append({**j, "release_url": r["html_url"] if r else None, "book_count": len(bl), "books": bl})
-    cat = {"schema": 1, "repo": REPO, "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        out_j.append({**j, "release_url": r["html_url"] if r else None, "book_count": len(bl),
+                      "matn_count": sum(b["type"] == "matn" for b in bl), "sharh_count": sum(b["type"] == "sharh" for b in bl), "books": bl})
+    cat = {"schema": 2, "repo": REPO, "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
            "total_files": total_files, "total_size": total_size, "groups": jam.get("groups", {}), "jamats": out_j}
     path = os.path.join(ROOT, "catalog.json")
     old = None
