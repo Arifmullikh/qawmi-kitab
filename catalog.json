@@ -1,0 +1,1132 @@
+{
+ "schema": 1,
+ "repo": "Arifmullikh/qawmi-kitab",
+ "generated_at": "2026-11-20T04:50:17Z",
+ "total_files": 59,
+ "total_size": 1146868140,
+ "groups": {
+  "marhala": "মারহালা (জামাত)",
+  "takhassus": "তাখাসসুস"
+ },
+ "jamats": [
+  {
+   "order": 1,
+   "tag": "taisir",
+   "name_bn": "তাইসীর",
+   "name_en": "Taisir",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/taisir",
+   "book_count": 20,
+   "books": [
+    {
+     "id": "taisir/Bangla__01_Taleemul-Islam_Khondo-1-4_Bangla_-includes-4th.pdf",
+     "section": "bangla",
+     "title": "তালীমুল ইসলাম (১-৪ খণ্ড)",
+     "lang": "bn",
+     "size": 3312275,
+     "parts": [
+      {
+       "name": "Bangla__01_Taleemul-Islam_Khondo-1-4_Bangla_-includes-4th.pdf",
+       "part": 1,
+       "size": 3312275,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__01_Taleemul-Islam_Khondo-1-4_Bangla_-includes-4th.pdf",
+       "updated_at": "2026-11-20T04:43:11Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__03_Urdu-ki-Teesri-Kitab_Urdu-Bangla.pdf",
+     "section": "bangla",
+     "title": "উর্দু কী তীসরী কিতাব (উর্দু-বাংলা)",
+     "lang": "bn",
+     "size": 7815954,
+     "parts": [
+      {
+       "name": "Bangla__03_Urdu-ki-Teesri-Kitab_Urdu-Bangla.pdf",
+       "part": 1,
+       "size": 7815954,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__03_Urdu-ki-Teesri-Kitab_Urdu-Bangla.pdf",
+       "updated_at": "2026-11-20T04:43:19Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__04_Farsi-ki-Pehli-Kitab_Bangla-Urdu.pdf",
+     "section": "bangla",
+     "title": "ফারসী কী পহেলী কিতাব (বাংলা)",
+     "lang": "bn",
+     "size": 5432846,
+     "parts": [
+      {
+       "name": "Bangla__04_Farsi-ki-Pehli-Kitab_Bangla-Urdu.pdf",
+       "part": 1,
+       "size": 5432846,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__04_Farsi-ki-Pehli-Kitab_Bangla-Urdu.pdf",
+       "updated_at": "2026-11-20T04:43:26Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__10_Prathomik-Gonit_Class5_NCTB-2025_-substitute-not-Befaq.pdf",
+     "section": "bangla",
+     "title": "প্রাথমিক গণিত - ৫ম শ্রেণি (NCTB)",
+     "lang": "bn",
+     "size": 19626651,
+     "parts": [
+      {
+       "name": "Bangla__10_Prathomik-Gonit_Class5_NCTB-2025_-substitute-not-Befaq.pdf",
+       "part": 1,
+       "size": 19626651,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__10_Prathomik-Gonit_Class5_NCTB-2025_-substitute-not-Befaq.pdf",
+       "updated_at": "2026-11-20T04:43:35Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__13_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf",
+     "section": "bangla",
+     "title": "বেহেশতী জেওর - ১ম ভলিউম (১-৩ খণ্ড)",
+     "lang": "bn",
+     "size": 10423578,
+     "parts": [
+      {
+       "name": "Bangla__13_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf",
+       "part": 1,
+       "size": 10423578,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__13_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf",
+       "updated_at": "2026-11-20T04:43:43Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__13_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf",
+     "section": "bangla",
+     "title": "বেহেশতী জেওর - ২য় ভলিউম (৪-৭ খণ্ড)",
+     "lang": "bn",
+     "size": 10683397,
+     "parts": [
+      {
+       "name": "Bangla__13_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf",
+       "part": 1,
+       "size": 10683397,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__13_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf",
+       "updated_at": "2026-11-20T04:43:51Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__14_Beheshti-Gauhar_Bangla.pdf",
+     "section": "bangla",
+     "title": "বেহেশতী গাওহার",
+     "lang": "bn",
+     "size": 4921536,
+     "parts": [
+      {
+       "name": "Bangla__14_Beheshti-Gauhar_Bangla.pdf",
+       "part": 1,
+       "size": 4921536,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__14_Beheshti-Gauhar_Bangla.pdf",
+       "updated_at": "2026-11-20T04:43:58Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__15_Urdu-ki-Pehli-Kitab_Urdu-Bangla.pdf",
+     "section": "bangla",
+     "title": "উর্দু কী পহেলী কিতাব (উর্দু-বাংলা)",
+     "lang": "bn",
+     "size": 2820803,
+     "parts": [
+      {
+       "name": "Bangla__15_Urdu-ki-Pehli-Kitab_Urdu-Bangla.pdf",
+       "part": 1,
+       "size": 2820803,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__15_Urdu-ki-Pehli-Kitab_Urdu-Bangla.pdf",
+       "updated_at": "2026-11-20T04:44:06Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__16_Urdu-ki-Doosri-Kitab_Urdu-Bangla.pdf",
+     "section": "bangla",
+     "title": "উর্দু কী দূসরী কিতাব (উর্দু-বাংলা)",
+     "lang": "bn",
+     "size": 4695369,
+     "parts": [
+      {
+       "name": "Bangla__16_Urdu-ki-Doosri-Kitab_Urdu-Bangla.pdf",
+       "part": 1,
+       "size": 4695369,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__16_Urdu-ki-Doosri-Kitab_Urdu-Bangla.pdf",
+       "updated_at": "2026-11-20T04:44:13Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__18_Karima_Bongaonubad-Bangla-translation.pdf",
+     "section": "bangla",
+     "title": "কারীমা - বঙ্গানুবাদ",
+     "lang": "bn",
+     "size": 3849792,
+     "parts": [
+      {
+       "name": "Bangla__18_Karima_Bongaonubad-Bangla-translation.pdf",
+       "part": 1,
+       "size": 3849792,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__18_Karima_Bongaonubad-Bangla-translation.pdf",
+       "updated_at": "2026-11-20T04:44:20Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__18_Karima_Farsi-with-Bangla-meaning.pdf",
+     "section": "bangla",
+     "title": "কারীমা (ফারসি, বাংলা অর্থসহ)",
+     "lang": "bn",
+     "size": 2211183,
+     "parts": [
+      {
+       "name": "Bangla__18_Karima_Farsi-with-Bangla-meaning.pdf",
+       "part": 1,
+       "size": 2211183,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__18_Karima_Farsi-with-Bangla-meaning.pdf",
+       "updated_at": "2026-11-20T04:44:27Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Bangla__20_Nuzhatul-Qari_Bangla.pdf",
+     "section": "bangla",
+     "title": "নুযহাতুল কারী",
+     "lang": "bn",
+     "size": 1402035,
+     "parts": [
+      {
+       "name": "Bangla__20_Nuzhatul-Qari_Bangla.pdf",
+       "part": 1,
+       "size": 1402035,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Bangla__20_Nuzhatul-Qari_Bangla.pdf",
+       "updated_at": "2026-11-20T04:44:35Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Original__01_Taleemul-Islam_Urdu_Mukammal-all-4-parts.pdf",
+     "section": "original",
+     "title": "তালীমুল ইসলাম (উর্দু, পূর্ণ ৪ খণ্ড)",
+     "lang": "ur",
+     "size": 4654067,
+     "parts": [
+      {
+       "name": "Original__01_Taleemul-Islam_Urdu_Mukammal-all-4-parts.pdf",
+       "part": 1,
+       "size": 4654067,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Original__01_Taleemul-Islam_Urdu_Mukammal-all-4-parts.pdf",
+       "updated_at": "2026-11-20T04:44:42Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Original__04_Farsi-ki-Pehli-Kitab_Urdu.pdf",
+     "section": "original",
+     "title": "ফারসী কী পহেলী কিতাব (উর্দু)",
+     "lang": "ur",
+     "size": 8377587,
+     "parts": [
+      {
+       "name": "Original__04_Farsi-ki-Pehli-Kitab_Urdu.pdf",
+       "part": 1,
+       "size": 8377587,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Original__04_Farsi-ki-Pehli-Kitab_Urdu.pdf",
+       "updated_at": "2026-11-20T04:44:49Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Original__05_Taiseerul-Mubtadi_Urdu-Farsi_-Maktaba-al-Bushra.pdf",
+     "section": "original",
+     "title": "তাইসীরুল মুবতাদী (উর্দু-ফারসি, বুশরা)",
+     "lang": "fa",
+     "size": 771267,
+     "parts": [
+      {
+       "name": "Original__05_Taiseerul-Mubtadi_Urdu-Farsi_-Maktaba-al-Bushra.pdf",
+       "part": 1,
+       "size": 771267,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Original__05_Taiseerul-Mubtadi_Urdu-Farsi_-Maktaba-al-Bushra.pdf",
+       "updated_at": "2026-11-20T04:44:55Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Original__13_Bahishti-Zewar_Urdu_Mukammal.pdf",
+     "section": "original",
+     "title": "বেহেশতী জেওর (উর্দু, পূর্ণ)",
+     "lang": "ur",
+     "size": 17394986,
+     "parts": [
+      {
+       "name": "Original__13_Bahishti-Zewar_Urdu_Mukammal.pdf",
+       "part": 1,
+       "size": 17394986,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Original__13_Bahishti-Zewar_Urdu_Mukammal.pdf",
+       "updated_at": "2026-11-20T04:45:03Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Original__14_Bahishti-Gohar_Urdu_-Maktaba-al-Bushra.pdf",
+     "section": "original",
+     "title": "বেহেশতী গাওহার (উর্দু, বুশরা)",
+     "lang": "ur",
+     "size": 18126632,
+     "parts": [
+      {
+       "name": "Original__14_Bahishti-Gohar_Urdu_-Maktaba-al-Bushra.pdf",
+       "part": 1,
+       "size": 18126632,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Original__14_Bahishti-Gohar_Urdu_-Maktaba-al-Bushra.pdf",
+       "updated_at": "2026-11-20T04:45:12Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Original__17_Chehel-Sabaq_Urdu-Farsi.pdf",
+     "section": "original",
+     "title": "চেহেল সবক (উর্দু-ফারসি)",
+     "lang": "fa",
+     "size": 11370922,
+     "parts": [
+      {
+       "name": "Original__17_Chehel-Sabaq_Urdu-Farsi.pdf",
+       "part": 1,
+       "size": 11370922,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Original__17_Chehel-Sabaq_Urdu-Farsi.pdf",
+       "updated_at": "2026-11-20T04:45:21Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Original__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf",
+     "section": "original",
+     "title": "কারীমা - শেখ সাদী (ফারসি, উর্দু টীকাসহ)",
+     "lang": "fa",
+     "size": 7329711,
+     "parts": [
+      {
+       "name": "Original__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf",
+       "part": 1,
+       "size": 7329711,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Original__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf",
+       "updated_at": "2026-11-20T04:45:30Z"
+      }
+     ]
+    },
+    {
+     "id": "taisir/Original__19_Urdu-ka-Aasan-Qaida_Urdu_-generic-not-BD-edition.pdf",
+     "section": "original",
+     "title": "উর্দু কা আসান কায়েদা",
+     "lang": "ur",
+     "size": 9606109,
+     "parts": [
+      {
+       "name": "Original__19_Urdu-ka-Aasan-Qaida_Urdu_-generic-not-BD-edition.pdf",
+       "part": 1,
+       "size": 9606109,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/taisir/Original__19_Urdu-ka-Aasan-Qaida_Urdu_-generic-not-BD-edition.pdf",
+       "updated_at": "2026-11-20T04:45:38Z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "order": 2,
+   "tag": "mizan",
+   "name_bn": "মীযান",
+   "name_en": "Mizan",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/mizan",
+   "book_count": 33,
+   "books": [
+    {
+     "id": "mizan/Bangla__01-02-05_Azizul-Mubtadi_Mizanus-Sarf-o-Munshaib_Bangla.pdf",
+     "section": "bangla",
+     "title": "আযীযুল মুবতাদী - মীযানুস সরফ ও মুনশাইব (বাংলা)",
+     "lang": "bn",
+     "size": 7697798,
+     "parts": [
+      {
+       "name": "Bangla__01-02-05_Azizul-Mubtadi_Mizanus-Sarf-o-Munshaib_Bangla.pdf",
+       "part": 1,
+       "size": 7697798,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__01-02-05_Azizul-Mubtadi_Mizanus-Sarf-o-Munshaib_Bangla.pdf",
+       "updated_at": "2026-11-20T04:45:47Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__03_At-Tamrinul-Kitabi_Arabic-Bangla.pdf",
+     "section": "bangla",
+     "title": "আত-তামরীনুল কিতাবী (আরবি-বাংলা)",
+     "lang": "bn",
+     "size": 4415218,
+     "parts": [
+      {
+       "name": "Bangla__03_At-Tamrinul-Kitabi_Arabic-Bangla.pdf",
+       "part": 1,
+       "size": 4415218,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__03_At-Tamrinul-Kitabi_Arabic-Bangla.pdf",
+       "updated_at": "2026-11-20T04:45:55Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__04_Safwatul-Masadir_Bangla_-Azizul-Masadir.pdf",
+     "section": "bangla",
+     "title": "সফওয়াতুল মাসাদির (আযীযুল মাসাদির)",
+     "lang": "bn",
+     "size": 4327589,
+     "parts": [
+      {
+       "name": "Bangla__04_Safwatul-Masadir_Bangla_-Azizul-Masadir.pdf",
+       "part": 1,
+       "size": 4327589,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__04_Safwatul-Masadir_Bangla_-Azizul-Masadir.pdf",
+       "updated_at": "2026-11-20T04:46:02Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__06_Esho-Arabi-Shikhi_At-Tariq-ila-al-Arabiyyah_Parts-1-3.pdf",
+     "section": "bangla",
+     "title": "এসো আরবি শিখি - আত-তারীক ইলাল আরাবিয়্যাহ (১-৩)",
+     "lang": "bn",
+     "size": 9953869,
+     "parts": [
+      {
+       "name": "Bangla__06_Esho-Arabi-Shikhi_At-Tariq-ila-al-Arabiyyah_Parts-1-3.pdf",
+       "part": 1,
+       "size": 9953869,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__06_Esho-Arabi-Shikhi_At-Tariq-ila-al-Arabiyyah_Parts-1-3.pdf",
+       "updated_at": "2026-11-20T04:46:10Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__07_Bakuratul-Adab_Arabic-Urdu-Bangla.pdf",
+     "section": "bangla",
+     "title": "বাকূরাতুল আদব (আরবি-উর্দু-বাংলা)",
+     "lang": "bn",
+     "size": 4182347,
+     "parts": [
+      {
+       "name": "Bangla__07_Bakuratul-Adab_Arabic-Urdu-Bangla.pdf",
+       "part": 1,
+       "size": 4182347,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__07_Bakuratul-Adab_Arabic-Urdu-Bangla.pdf",
+       "updated_at": "2026-11-20T04:46:17Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__08_Pandenama_Sohoj_Bangla.pdf",
+     "section": "bangla",
+     "title": "সহজ পান্দেনামা",
+     "lang": "bn",
+     "size": 8686115,
+     "parts": [
+      {
+       "name": "Bangla__08_Pandenama_Sohoj_Bangla.pdf",
+       "part": 1,
+       "size": 8686115,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__08_Pandenama_Sohoj_Bangla.pdf",
+       "updated_at": "2026-11-20T04:46:25Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__10_Hekayete-Latif_Bangla.pdf",
+     "section": "bangla",
+     "title": "হেকায়েতে লতীফ",
+     "lang": "bn",
+     "size": 2532889,
+     "parts": [
+      {
+       "name": "Bangla__10_Hekayete-Latif_Bangla.pdf",
+       "part": 1,
+       "size": 2532889,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__10_Hekayete-Latif_Bangla.pdf",
+       "updated_at": "2026-11-20T04:46:31Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__11_Beheshti-Gauhar_Bangla.pdf",
+     "section": "bangla",
+     "title": "বেহেশতী গাওহার",
+     "lang": "bn",
+     "size": 4921536,
+     "parts": [
+      {
+       "name": "Bangla__11_Beheshti-Gauhar_Bangla.pdf",
+       "part": 1,
+       "size": 4921536,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__11_Beheshti-Gauhar_Bangla.pdf",
+       "updated_at": "2026-11-20T04:46:39Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__12_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf",
+     "section": "bangla",
+     "title": "বেহেশতী জেওর - ১ম ভলিউম (১-৩ খণ্ড)",
+     "lang": "bn",
+     "size": 10423578,
+     "parts": [
+      {
+       "name": "Bangla__12_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf",
+       "part": 1,
+       "size": 10423578,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__12_Beheshti-Zewar_Bangla_Vol1_Khondo-1-3.pdf",
+       "updated_at": "2026-11-20T04:46:46Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__12_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf",
+     "section": "bangla",
+     "title": "বেহেশতী জেওর - ২য় ভলিউম (৪-৭ খণ্ড)",
+     "lang": "bn",
+     "size": 10683397,
+     "parts": [
+      {
+       "name": "Bangla__12_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf",
+       "part": 1,
+       "size": 10683397,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__12_Beheshti-Zewar_Bangla_Vol2_Khondo-4-7.pdf",
+       "updated_at": "2026-11-20T04:46:54Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__13_Jamalul-Quran_Bangla.pdf",
+     "section": "bangla",
+     "title": "জামালুল কুরআন",
+     "lang": "bn",
+     "size": 2949623,
+     "parts": [
+      {
+       "name": "Bangla__13_Jamalul-Quran_Bangla.pdf",
+       "part": 1,
+       "size": 2949623,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__13_Jamalul-Quran_Bangla.pdf",
+       "updated_at": "2026-11-20T04:47:01Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__15_Tarikhul-Islam_1m-Khondo_Bangla.pdf",
+     "section": "bangla",
+     "title": "তারীখুল ইসলাম - ১ম খণ্ড",
+     "lang": "bn",
+     "size": 13910488,
+     "parts": [
+      {
+       "name": "Bangla__15_Tarikhul-Islam_1m-Khondo_Bangla.pdf",
+       "part": 1,
+       "size": 13910488,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__15_Tarikhul-Islam_1m-Khondo_Bangla.pdf",
+       "updated_at": "2026-11-20T04:47:10Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__16_Tarikhul-Islam_2y-Khondo_Tarikhe-Millat-Khilafate-Rashida_Bangla.pdf",
+     "section": "bangla",
+     "title": "তারীখুল ইসলাম - ২য় খণ্ড (খেলাফতে রাশেদা)",
+     "lang": "bn",
+     "size": 7815279,
+     "parts": [
+      {
+       "name": "Bangla__16_Tarikhul-Islam_2y-Khondo_Tarikhe-Millat-Khilafate-Rashida_Bangla.pdf",
+       "part": 1,
+       "size": 7815279,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__16_Tarikhul-Islam_2y-Khondo_Tarikhe-Millat-Khilafate-Rashida_Bangla.pdf",
+       "updated_at": "2026-11-20T04:47:18Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__18_Karima_Farsi-with-Bangla-meaning.pdf",
+     "section": "bangla",
+     "title": "কারীমা (ফারসি, বাংলা অর্থসহ)",
+     "lang": "bn",
+     "size": 2211183,
+     "parts": [
+      {
+       "name": "Bangla__18_Karima_Farsi-with-Bangla-meaning.pdf",
+       "part": 1,
+       "size": 2211183,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__18_Karima_Farsi-with-Bangla-meaning.pdf",
+       "updated_at": "2026-11-20T04:47:24Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__19_Karima_Bongaonubad.pdf",
+     "section": "bangla",
+     "title": "কারীমা - বঙ্গানুবাদ",
+     "lang": "bn",
+     "size": 3849792,
+     "parts": [
+      {
+       "name": "Bangla__19_Karima_Bongaonubad.pdf",
+       "part": 1,
+       "size": 3849792,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__19_Karima_Bongaonubad.pdf",
+       "updated_at": "2026-11-20T04:47:31Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__23_Ilmus-Sarf_Bangla_-Befaq-Panjganj-o-Ilmus-Sarf.pdf",
+     "section": "bangla",
+     "title": "ইলমুস সরফ ও পাঞ্জগাঞ্জ (বাংলা)",
+     "lang": "bn",
+     "size": 6397716,
+     "parts": [
+      {
+       "name": "Bangla__23_Ilmus-Sarf_Bangla_-Befaq-Panjganj-o-Ilmus-Sarf.pdf",
+       "part": 1,
+       "size": 6397716,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__23_Ilmus-Sarf_Bangla_-Befaq-Panjganj-o-Ilmus-Sarf.pdf",
+       "updated_at": "2026-11-20T04:47:38Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Bangla__23b_Proshnottore-Ilmus-Sarf_Bangla.pdf",
+     "section": "bangla",
+     "title": "প্রশ্নোত্তরে ইলমুস সরফ",
+     "lang": "bn",
+     "size": 5443168,
+     "parts": [
+      {
+       "name": "Bangla__23b_Proshnottore-Ilmus-Sarf_Bangla.pdf",
+       "part": 1,
+       "size": 5443168,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Bangla__23b_Proshnottore-Ilmus-Sarf_Bangla.pdf",
+       "updated_at": "2026-11-20T04:47:46Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__01-02_Mizanus-Sarf-wa-Munshaib_Farsi_-al-Bushra.pdf",
+     "section": "original",
+     "title": "মীযানুস সরফ ও মুনশাইব (ফারসি, বুশরা)",
+     "lang": "fa",
+     "size": 2381869,
+     "parts": [
+      {
+       "name": "Original__01-02_Mizanus-Sarf-wa-Munshaib_Farsi_-al-Bushra.pdf",
+       "part": 1,
+       "size": 2381869,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__01-02_Mizanus-Sarf-wa-Munshaib_Farsi_-al-Bushra.pdf",
+       "updated_at": "2026-11-20T04:47:53Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__04_Arabi-Safwatul-Masadir_Arabic.pdf",
+     "section": "original",
+     "title": "সফওয়াতুল মাসাদির (আরবি)",
+     "lang": "ar",
+     "size": 4254979,
+     "parts": [
+      {
+       "name": "Original__04_Arabi-Safwatul-Masadir_Arabic.pdf",
+       "part": 1,
+       "size": 4254979,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__04_Arabi-Safwatul-Masadir_Arabic.pdf",
+       "updated_at": "2026-11-20T04:48:00Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__07_Bakuratul-Adab_Arabic.pdf",
+     "section": "original",
+     "title": "বাকূরাতুল আদব (আরবি)",
+     "lang": "ar",
+     "size": 9636678,
+     "parts": [
+      {
+       "name": "Original__07_Bakuratul-Adab_Arabic.pdf",
+       "part": 1,
+       "size": 9636678,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__07_Bakuratul-Adab_Arabic.pdf",
+       "updated_at": "2026-11-20T04:48:08Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__08_Pandnama-Attar_Farsi_-al-Bushra.pdf",
+     "section": "original",
+     "title": "পান্দেনামা - শেখ আত্তার (ফারসি)",
+     "lang": "fa",
+     "size": 9949907,
+     "parts": [
+      {
+       "name": "Original__08_Pandnama-Attar_Farsi_-al-Bushra.pdf",
+       "part": 1,
+       "size": 9949907,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__08_Pandnama-Attar_Farsi_-al-Bushra.pdf",
+       "updated_at": "2026-11-20T04:48:15Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__11_Bahishti-Gohar_Urdu.pdf",
+     "section": "original",
+     "title": "বেহেশতী গাওহার (উর্দু)",
+     "lang": "ur",
+     "size": 18126632,
+     "parts": [
+      {
+       "name": "Original__11_Bahishti-Gohar_Urdu.pdf",
+       "part": 1,
+       "size": 18126632,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__11_Bahishti-Gohar_Urdu.pdf",
+       "updated_at": "2026-11-20T04:48:24Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__12_Bahishti-Zewar_Urdu_Mukammal.pdf",
+     "section": "original",
+     "title": "বেহেশতী জেওর (উর্দু, পূর্ণ)",
+     "lang": "ur",
+     "size": 17394986,
+     "parts": [
+      {
+       "name": "Original__12_Bahishti-Zewar_Urdu_Mukammal.pdf",
+       "part": 1,
+       "size": 17394986,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__12_Bahishti-Zewar_Urdu_Mukammal.pdf",
+       "updated_at": "2026-11-20T04:48:31Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__13_Jamalul-Quran_Urdu_-Thanvi.pdf",
+     "section": "original",
+     "title": "জামালুল কুরআন (উর্দু, থানভী রহ.)",
+     "lang": "ur",
+     "size": 4024013,
+     "parts": [
+      {
+       "name": "Original__13_Jamalul-Quran_Urdu_-Thanvi.pdf",
+       "part": 1,
+       "size": 4024013,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__13_Jamalul-Quran_Urdu_-Thanvi.pdf",
+       "updated_at": "2026-11-20T04:48:39Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__14_al-Qiraatul-Wadiha_Part1_Arabic.pdf",
+     "section": "original",
+     "title": "আল-কিরাআতুল ওয়াযিহা - ১ম খণ্ড",
+     "lang": "ar",
+     "size": 10235464,
+     "parts": [
+      {
+       "name": "Original__14_al-Qiraatul-Wadiha_Part1_Arabic.pdf",
+       "part": 1,
+       "size": 10235464,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__14_al-Qiraatul-Wadiha_Part1_Arabic.pdf",
+       "updated_at": "2026-11-20T04:48:46Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__14_al-Qiraatul-Wadiha_Part2_Arabic.pdf",
+     "section": "original",
+     "title": "আল-কিরাআতুল ওয়াযিহা - ২য় খণ্ড",
+     "lang": "ar",
+     "size": 13039125,
+     "parts": [
+      {
+       "name": "Original__14_al-Qiraatul-Wadiha_Part2_Arabic.pdf",
+       "part": 1,
+       "size": 13039125,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__14_al-Qiraatul-Wadiha_Part2_Arabic.pdf",
+       "updated_at": "2026-11-20T04:48:53Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__14_al-Qiraatul-Wadiha_Part3_Arabic.pdf",
+     "section": "original",
+     "title": "আল-কিরাআতুল ওয়াযিহা - ৩য় খণ্ড",
+     "lang": "ar",
+     "size": 15640237,
+     "parts": [
+      {
+       "name": "Original__14_al-Qiraatul-Wadiha_Part3_Arabic.pdf",
+       "part": 1,
+       "size": 15640237,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__14_al-Qiraatul-Wadiha_Part3_Arabic.pdf",
+       "updated_at": "2026-11-20T04:49:01Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__15_Tarikh-e-Millat_Vol1_Urdu.pdf",
+     "section": "original",
+     "title": "তারীখে মিল্লাত - ১ম খণ্ড (উর্দু)",
+     "lang": "ur",
+     "size": 20165704,
+     "parts": [
+      {
+       "name": "Original__15_Tarikh-e-Millat_Vol1_Urdu.pdf",
+       "part": 1,
+       "size": 20165704,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__15_Tarikh-e-Millat_Vol1_Urdu.pdf",
+       "updated_at": "2026-11-20T04:49:11Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__16_Tarikh-e-Millat_Vol2_Urdu.pdf",
+     "section": "original",
+     "title": "তারীখে মিল্লাত - ২য় খণ্ড (উর্দু)",
+     "lang": "ur",
+     "size": 21810764,
+     "parts": [
+      {
+       "name": "Original__16_Tarikh-e-Millat_Vol2_Urdu.pdf",
+       "part": 1,
+       "size": 21810764,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__16_Tarikh-e-Millat_Vol2_Urdu.pdf",
+       "updated_at": "2026-11-20T04:49:21Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__17_Tarikh-e-Millat_Vol3_Urdu.pdf",
+     "section": "original",
+     "title": "তারীখে মিল্লাত - ৩য় খণ্ড (উর্দু)",
+     "lang": "ur",
+     "size": 20571852,
+     "parts": [
+      {
+       "name": "Original__17_Tarikh-e-Millat_Vol3_Urdu.pdf",
+       "part": 1,
+       "size": 20571852,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__17_Tarikh-e-Millat_Vol3_Urdu.pdf",
+       "updated_at": "2026-11-20T04:49:30Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf",
+     "section": "original",
+     "title": "কারীমা - শেখ সাদী (ফারসি)",
+     "lang": "fa",
+     "size": 7329711,
+     "parts": [
+      {
+       "name": "Original__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf",
+       "part": 1,
+       "size": 7329711,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__18_Karima-Saadi_Farsi-with-Urdu-notes.pdf",
+       "updated_at": "2026-11-20T04:49:37Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__23_Ilm-us-Sarf_Akhirin_Urdu_-al-Bushra.pdf",
+     "section": "original",
+     "title": "ইলমুস সরফ - আখেরীন (উর্দু)",
+     "lang": "ur",
+     "size": 1798721,
+     "parts": [
+      {
+       "name": "Original__23_Ilm-us-Sarf_Akhirin_Urdu_-al-Bushra.pdf",
+       "part": 1,
+       "size": 1798721,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__23_Ilm-us-Sarf_Akhirin_Urdu_-al-Bushra.pdf",
+       "updated_at": "2026-11-20T04:49:43Z"
+      }
+     ]
+    },
+    {
+     "id": "mizan/Original__23_Ilm-us-Sarf_Awwalin_Urdu_-al-Bushra.pdf",
+     "section": "original",
+     "title": "ইলমুস সরফ - আওয়ালীন (উর্দু)",
+     "lang": "ur",
+     "size": 5779598,
+     "parts": [
+      {
+       "name": "Original__23_Ilm-us-Sarf_Awwalin_Urdu_-al-Bushra.pdf",
+       "part": 1,
+       "size": 5779598,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/mizan/Original__23_Ilm-us-Sarf_Awwalin_Urdu_-al-Bushra.pdf",
+       "updated_at": "2026-11-20T04:49:51Z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "order": 3,
+   "tag": "nahbemir",
+   "name_bn": "নাহবেমীর",
+   "name_en": "Nahbemir",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/nahbemir",
+   "book_count": 3,
+   "books": [
+    {
+     "id": "nahbemir/Bangla__01_Nahbemir_Prosnottore_Shohoz-Nahbe-Mir_QA_Bangla.pdf",
+     "section": "bangla",
+     "title": "প্রশ্নোত্তরে সহজ নাহবেমীর",
+     "lang": "bn",
+     "size": 3233686,
+     "parts": [
+      {
+       "name": "Bangla__01_Nahbemir_Prosnottore_Shohoz-Nahbe-Mir_QA_Bangla.pdf",
+       "part": 1,
+       "size": 3233686,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/nahbemir/Bangla__01_Nahbemir_Prosnottore_Shohoz-Nahbe-Mir_QA_Bangla.pdf",
+       "updated_at": "2026-11-20T04:49:59Z"
+      }
+     ]
+    },
+    {
+     "id": "nahbemir/Bangla__01_Nahbemir_Shohoz_Farsi-Bangla_-with-Tumali-Khulasa-Miyate-Amel.pdf",
+     "section": "bangla",
+     "title": "সহজ নাহবেমীর (ফারসি-বাংলা)",
+     "lang": "bn",
+     "size": 2543506,
+     "parts": [
+      {
+       "name": "Bangla__01_Nahbemir_Shohoz_Farsi-Bangla_-with-Tumali-Khulasa-Miyate-Amel.pdf",
+       "part": 1,
+       "size": 2543506,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/nahbemir/Bangla__01_Nahbemir_Shohoz_Farsi-Bangla_-with-Tumali-Khulasa-Miyate-Amel.pdf",
+       "updated_at": "2026-11-20T04:50:07Z"
+      }
+     ]
+    },
+    {
+     "id": "nahbemir/Bangla__02_Ilmus-Sarf_Prosnottore_Bangla_QA_-Charthawali.pdf",
+     "section": "bangla",
+     "title": "প্রশ্নোত্তরে ইলমুস সরফ",
+     "lang": "bn",
+     "size": 2446500,
+     "parts": [
+      {
+       "name": "Bangla__02_Ilmus-Sarf_Prosnottore_Bangla_QA_-Charthawali.pdf",
+       "part": 1,
+       "size": 2446500,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/nahbemir/Bangla__02_Ilmus-Sarf_Prosnottore_Bangla_QA_-Charthawali.pdf",
+       "updated_at": "2026-11-20T04:50:15Z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "order": 4,
+   "tag": "hedayatun-nahu",
+   "name_bn": "হেদায়াতুন নাহু",
+   "name_en": "Hedayatun Nahu",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/hedayatun-nahu",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 5,
+   "tag": "kafiya",
+   "name_bn": "কাফিয়া",
+   "name_en": "Kafiya",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/kafiya",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 6,
+   "tag": "sharhe-jami",
+   "name_bn": "শরহে জামী",
+   "name_en": "Sharhe Jami",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/sharhe-jami",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 7,
+   "tag": "sharhe-bekaya",
+   "name_bn": "শরহে বেকায়া",
+   "name_en": "Sharhe Bekaya",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/sharhe-bekaya",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 8,
+   "tag": "jalalain",
+   "name_bn": "জালালাইন",
+   "name_en": "Jalalain",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/jalalain",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 9,
+   "tag": "mishkat",
+   "name_bn": "মিশকাত",
+   "name_en": "Mishkat",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/mishkat",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 10,
+   "tag": "dawra",
+   "name_bn": "দাওরায়ে হাদীস",
+   "name_en": "Dawra-e-Hadith",
+   "group": "marhala",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/dawra",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 11,
+   "tag": "takhassus-ifta",
+   "name_bn": "তাখাসসুস - ইফতা",
+   "name_en": "Takhassus: Ifta",
+   "group": "takhassus",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/takhassus-ifta",
+   "book_count": 2,
+   "books": [
+    {
+     "id": "takhassus-ifta/Original__01_Fatawa-Hindiyya_Alamgiri.pdf",
+     "section": "original",
+     "title": "ফাতাওয়া হিন্দিয়া (আলমগীরী)",
+     "lang": "ar",
+     "size": 272993865,
+     "parts": [
+      {
+       "name": "Original__01_Fatawa-Hindiyya_Alamgiri.pdf",
+       "part": 1,
+       "size": 272993865,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/takhassus-ifta/Original__01_Fatawa-Hindiyya_Alamgiri.pdf",
+       "updated_at": "2026-11-20T04:48:52Z"
+      }
+     ]
+    },
+    {
+     "id": "takhassus-ifta/Original__02_Radd-al-Muhtar_Ibn-Abidin.pdf",
+     "section": "original",
+     "title": "রদ্দুল মুহতার (ফাতাওয়া শামী) - ইবনে আবেদীন",
+     "lang": "ar",
+     "size": 209141029,
+     "parts": [
+      {
+       "name": "Original__02_Radd-al-Muhtar_Ibn-Abidin.pdf",
+       "part": 1,
+       "size": 209141029,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/takhassus-ifta/Original__02_Radd-al-Muhtar_Ibn-Abidin.pdf",
+       "updated_at": "2026-11-20T04:49:44Z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "order": 12,
+   "tag": "takhassus-hadith",
+   "name_bn": "তাখাসসুস - হাদীস",
+   "name_en": "Takhassus: Hadith",
+   "group": "takhassus",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/takhassus-hadith",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 13,
+   "tag": "takhassus-tafsir",
+   "name_bn": "তাখাসসুস - তাফসীর",
+   "name_en": "Takhassus: Tafsir",
+   "group": "takhassus",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/takhassus-tafsir",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 14,
+   "tag": "takhassus-fiqh",
+   "name_bn": "তাখাসসুস - ফিকহ",
+   "name_en": "Takhassus: Fiqh",
+   "group": "takhassus",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/takhassus-fiqh",
+   "book_count": 1,
+   "books": [
+    {
+     "id": "takhassus-fiqh/Original__02_Radd-al-Muhtar_Ibn-Abidin.pdf",
+     "section": "original",
+     "title": "রদ্দুল মুহতার (ফাতাওয়া শামী) - ইবনে আবেদীন",
+     "lang": "ar",
+     "size": 209141029,
+     "parts": [
+      {
+       "name": "Original__02_Radd-al-Muhtar_Ibn-Abidin.pdf",
+       "part": 1,
+       "size": 209141029,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/takhassus-fiqh/Original__02_Radd-al-Muhtar_Ibn-Abidin.pdf",
+       "updated_at": "2026-11-20T04:50:09Z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "order": 15,
+   "tag": "takhassus-adab",
+   "name_bn": "তাখাসসুস - আদব",
+   "name_en": "Takhassus: Adab",
+   "group": "takhassus",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/takhassus-adab",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 16,
+   "tag": "takhassus-qiraat",
+   "name_bn": "তাখাসসুস - কিরাআত",
+   "name_en": "Takhassus: Qiraat",
+   "group": "takhassus",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/takhassus-qiraat",
+   "book_count": 0,
+   "books": []
+  },
+  {
+   "order": 17,
+   "tag": "takhassus-dawah",
+   "name_bn": "তাখাসসুস - দাওয়াহ",
+   "name_en": "Takhassus: Dawah",
+   "group": "takhassus",
+   "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/takhassus-dawah",
+   "book_count": 0,
+   "books": []
+  }
+ ]
+}
