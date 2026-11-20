@@ -21,7 +21,7 @@
 - বাংলা নাম: `https://raw.githubusercontent.com/Arifmullikh/qawmi-kitab/main/names.json`
 - PDF ডাউনলোড: `https://github.com/Arifmullikh/qawmi-kitab/releases/download/<tag>/<ফাইলের-নাম>.pdf`
 
-টোকেন লাগে না (রিপো পাবলিক)। GitHub API টোকেন ছাড়া প্রতি ডিভাইসে ঘণ্টায় ৬০ বার কল করা যায়, তাই অ্যাপ ক্যাশ রাখে আর `catalog.json` ব্যাকআপ হিসেবে ব্যবহার করে। অ্যাপের পূর্ণ কোড: [docs/ANDROID.md](docs/ANDROID.md)
+টোকেন লাগে না (রিপো পাবলিক)। GitHub API টোকেন ছাড়া প্রতি ডিভাইসে ঘণ্টায় ৬০ বার কল করা যায়, তাই অ্যাপ ক্যাশ রাখে আর `catalog.json` ব্যাকআপ হিসেবে ব্যবহার করে।
 
 ## কিতাব যোগ করা (GitHub ওয়েবসাইট থেকে)
 
