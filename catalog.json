@@ -1,9 +1,9 @@
 {
  "schema": 1,
  "repo": "Arifmullikh/qawmi-kitab",
- "generated_at": "2026-11-20T04:50:17Z",
- "total_files": 59,
- "total_size": 1146868140,
+ "generated_at": "2026-11-20T04:50:31Z",
+ "total_files": 61,
+ "total_size": 1157775995,
  "groups": {
   "marhala": "মারহালা (জামাত)",
   "takhassus": "তাখাসসুস"
@@ -886,7 +886,7 @@
    "name_en": "Nahbemir",
    "group": "marhala",
    "release_url": "https://github.com/Arifmullikh/qawmi-kitab/releases/tag/nahbemir",
-   "book_count": 3,
+   "book_count": 5,
    "books": [
     {
      "id": "nahbemir/Bangla__01_Nahbemir_Prosnottore_Shohoz-Nahbe-Mir_QA_Bangla.pdf",
@@ -933,6 +933,38 @@
        "size": 2446500,
        "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/nahbemir/Bangla__02_Ilmus-Sarf_Prosnottore_Bangla_QA_-Charthawali.pdf",
        "updated_at": "2026-11-20T04:50:15Z"
+      }
+     ]
+    },
+    {
+     "id": "nahbemir/Bangla__02_Ilmus-Sarf_o_Panjganj_Darse-Ilmus-Sarf_Bangla_-Nurul-Amin.pdf",
+     "section": "bangla",
+     "title": "দরসে ইলমুস সরফ ও পাঞ্জগাঞ্জ",
+     "lang": "bn",
+     "size": 6397716,
+     "parts": [
+      {
+       "name": "Bangla__02_Ilmus-Sarf_o_Panjganj_Darse-Ilmus-Sarf_Bangla_-Nurul-Amin.pdf",
+       "part": 1,
+       "size": 6397716,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/nahbemir/Bangla__02_Ilmus-Sarf_o_Panjganj_Darse-Ilmus-Sarf_Bangla_-Nurul-Amin.pdf",
+       "updated_at": "2026-11-20T04:50:22Z"
+      }
+     ]
+    },
+    {
+     "id": "nahbemir/Bangla__03_Sharhe-Miyate-Amel_Shohoz_Bangla-tarjuma-tarkib-byakhya.pdf",
+     "section": "bangla",
+     "title": "সহজ শরহে মিয়াতে আমেল",
+     "lang": "bn",
+     "size": 4510139,
+     "parts": [
+      {
+       "name": "Bangla__03_Sharhe-Miyate-Amel_Shohoz_Bangla-tarjuma-tarkib-byakhya.pdf",
+       "part": 1,
+       "size": 4510139,
+       "url": "https://github.com/Arifmullikh/qawmi-kitab/releases/download/nahbemir/Bangla__03_Sharhe-Miyate-Amel_Shohoz_Bangla-tarjuma-tarkib-byakhya.pdf",
+       "updated_at": "2026-11-20T04:50:30Z"
       }
      ]
     }
